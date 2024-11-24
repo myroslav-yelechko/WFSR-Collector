@@ -1,0 +1,8651 @@
+[
+  {
+    "model": "collector.settlement",
+    "pk": 1,
+    "fields": {
+      "name": "\u00c5lesund",
+      "latitude": 62.47,
+      "longitude": 6.16
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 2,
+    "fields": {
+      "name": "Bergen",
+      "latitude": 60.39,
+      "longitude": 5.33
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 3,
+    "fields": {
+      "name": "Bod\u00f8",
+      "latitude": 67.28,
+      "longitude": 14.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 4,
+    "fields": {
+      "name": "Drammen",
+      "latitude": 59.74,
+      "longitude": 10.2
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 5,
+    "fields": {
+      "name": "Fredrikstad",
+      "latitude": 59.21,
+      "longitude": 10.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 6,
+    "fields": {
+      "name": "Haugesund",
+      "latitude": 59.41,
+      "longitude": 5.27
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 7,
+    "fields": {
+      "name": "Kristiansand",
+      "latitude": 58.15,
+      "longitude": 8.0
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 8,
+    "fields": {
+      "name": "Leirvik",
+      "latitude": 59.78,
+      "longitude": 5.49
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 9,
+    "fields": {
+      "name": "Moss",
+      "latitude": 59.43,
+      "longitude": 10.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 10,
+    "fields": {
+      "name": "Oslo",
+      "latitude": 59.91,
+      "longitude": 10.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 11,
+    "fields": {
+      "name": "Porsgrunn",
+      "latitude": 59.14,
+      "longitude": 9.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 12,
+    "fields": {
+      "name": "Sandefjord",
+      "latitude": 59.13,
+      "longitude": 10.23
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 13,
+    "fields": {
+      "name": "Sarpsborg",
+      "latitude": 59.28,
+      "longitude": 11.11
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 14,
+    "fields": {
+      "name": "Skien",
+      "latitude": 59.21,
+      "longitude": 9.61
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 15,
+    "fields": {
+      "name": "Stavanger",
+      "latitude": 58.97,
+      "longitude": 5.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 16,
+    "fields": {
+      "name": "T\u00f8nsberg",
+      "latitude": 59.27,
+      "longitude": 10.41
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 17,
+    "fields": {
+      "name": "Troms\u00f8",
+      "latitude": 69.65,
+      "longitude": 18.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 18,
+    "fields": {
+      "name": "Trondheim",
+      "latitude": 63.43,
+      "longitude": 10.4
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 19,
+    "fields": {
+      "name": "\u00c5krehamn",
+      "latitude": 59.27,
+      "longitude": 5.18
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 20,
+    "fields": {
+      "name": "\u00c5lg\u00e5rd",
+      "latitude": 58.77,
+      "longitude": 5.85
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 21,
+    "fields": {
+      "name": "Alta",
+      "latitude": 69.97,
+      "longitude": 23.27
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 22,
+    "fields": {
+      "name": "\u00c5ndalsnes",
+      "latitude": 62.57,
+      "longitude": 7.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 23,
+    "fields": {
+      "name": "Arendal",
+      "latitude": 58.46,
+      "longitude": 8.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 24,
+    "fields": {
+      "name": "\u00c5s",
+      "latitude": 59.66,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 25,
+    "fields": {
+      "name": "\u00c5sg\u00e5rdstrand",
+      "latitude": 59.35,
+      "longitude": 10.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 26,
+    "fields": {
+      "name": "Asker",
+      "latitude": 59.83,
+      "longitude": 10.44
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 27,
+    "fields": {
+      "name": "Askim",
+      "latitude": 59.58,
+      "longitude": 11.16
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 28,
+    "fields": {
+      "name": "Barentsburg",
+      "latitude": 78.07,
+      "longitude": 14.22
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 29,
+    "fields": {
+      "name": "B\u00f8",
+      "latitude": 59.41,
+      "longitude": 9.07
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 30,
+    "fields": {
+      "name": "Brekstad",
+      "latitude": 63.69,
+      "longitude": 9.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 31,
+    "fields": {
+      "name": "Brevik",
+      "latitude": 59.05,
+      "longitude": 9.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 32,
+    "fields": {
+      "name": "Br\u00f8nn\u00f8ysund",
+      "latitude": 65.47,
+      "longitude": 12.21
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 33,
+    "fields": {
+      "name": "Brumunddal",
+      "latitude": 60.89,
+      "longitude": 10.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 34,
+    "fields": {
+      "name": "Bryne",
+      "latitude": 58.73,
+      "longitude": 5.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 35,
+    "fields": {
+      "name": "Dr\u00f8bak",
+      "latitude": 59.67,
+      "longitude": 10.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 36,
+    "fields": {
+      "name": "Dr\u00f8bak",
+      "latitude": 59.66,
+      "longitude": 10.63
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 37,
+    "fields": {
+      "name": "Egersund",
+      "latitude": 58.45,
+      "longitude": 6.0
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 38,
+    "fields": {
+      "name": "Eidsvoll",
+      "latitude": 60.33,
+      "longitude": 11.26
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 39,
+    "fields": {
+      "name": "Elverum",
+      "latitude": 60.88,
+      "longitude": 11.56
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 40,
+    "fields": {
+      "name": "Fagernes",
+      "latitude": 60.99,
+      "longitude": 9.24
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 41,
+    "fields": {
+      "name": "Farsund",
+      "latitude": 58.1,
+      "longitude": 6.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 42,
+    "fields": {
+      "name": "Fauske",
+      "latitude": 67.26,
+      "longitude": 15.4
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 43,
+    "fields": {
+      "name": "Finnsnes",
+      "latitude": 69.23,
+      "longitude": 17.98
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 44,
+    "fields": {
+      "name": "Flekkefjord",
+      "latitude": 58.3,
+      "longitude": 6.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 45,
+    "fields": {
+      "name": "Flor\u00f8",
+      "latitude": 61.6,
+      "longitude": 5.03
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 46,
+    "fields": {
+      "name": "F\u00f8rde",
+      "latitude": 61.45,
+      "longitude": 5.86
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 47,
+    "fields": {
+      "name": "Fosnav\u00e5g",
+      "latitude": 62.34,
+      "longitude": 5.63
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 48,
+    "fields": {
+      "name": "Gj\u00f8vik",
+      "latitude": 60.8,
+      "longitude": 10.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 49,
+    "fields": {
+      "name": "Glomfjord",
+      "latitude": 66.82,
+      "longitude": 13.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 50,
+    "fields": {
+      "name": "Grimstad",
+      "latitude": 58.34,
+      "longitude": 8.59
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 51,
+    "fields": {
+      "name": "Halden",
+      "latitude": 59.12,
+      "longitude": 11.39
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 52,
+    "fields": {
+      "name": "Hamar",
+      "latitude": 60.79,
+      "longitude": 11.07
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 53,
+    "fields": {
+      "name": "Hammerfest",
+      "latitude": 70.66,
+      "longitude": 23.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 54,
+    "fields": {
+      "name": "Harstad",
+      "latitude": 68.8,
+      "longitude": 16.52
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 55,
+    "fields": {
+      "name": "Hokksund",
+      "latitude": 59.77,
+      "longitude": 9.91
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 56,
+    "fields": {
+      "name": "Holmestrand",
+      "latitude": 59.49,
+      "longitude": 10.32
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 57,
+    "fields": {
+      "name": "H\u00f8nefoss",
+      "latitude": 60.17,
+      "longitude": 10.26
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 58,
+    "fields": {
+      "name": "Honningsv\u00e5g",
+      "latitude": 70.98,
+      "longitude": 25.97
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 59,
+    "fields": {
+      "name": "Horten",
+      "latitude": 59.42,
+      "longitude": 10.48
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 60,
+    "fields": {
+      "name": "Jessheim",
+      "latitude": 60.14,
+      "longitude": 11.18
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 61,
+    "fields": {
+      "name": "J\u00f8rpeland",
+      "latitude": 59.02,
+      "longitude": 6.04
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 62,
+    "fields": {
+      "name": "Kirkenes",
+      "latitude": 69.73,
+      "longitude": 30.04
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 63,
+    "fields": {
+      "name": "Kongsberg",
+      "latitude": 59.67,
+      "longitude": 9.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 64,
+    "fields": {
+      "name": "Kongsvinger",
+      "latitude": 60.19,
+      "longitude": 12.01
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 65,
+    "fields": {
+      "name": "Kopervik",
+      "latitude": 59.28,
+      "longitude": 5.31
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 66,
+    "fields": {
+      "name": "Krager\u00f8",
+      "latitude": 58.87,
+      "longitude": 9.41
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 67,
+    "fields": {
+      "name": "Kristiansund",
+      "latitude": 63.12,
+      "longitude": 7.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 68,
+    "fields": {
+      "name": "Lakselv",
+      "latitude": 70.05,
+      "longitude": 24.96
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 69,
+    "fields": {
+      "name": "Langesund",
+      "latitude": 59.0,
+      "longitude": 9.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 70,
+    "fields": {
+      "name": "Larvik",
+      "latitude": 59.05,
+      "longitude": 10.03
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 71,
+    "fields": {
+      "name": "Leirvik",
+      "latitude": 59.78,
+      "longitude": 5.5
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 72,
+    "fields": {
+      "name": "Leknes",
+      "latitude": 68.15,
+      "longitude": 13.61
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 73,
+    "fields": {
+      "name": "Levanger",
+      "latitude": 63.75,
+      "longitude": 11.3
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 74,
+    "fields": {
+      "name": "Lillehammer",
+      "latitude": 61.11,
+      "longitude": 10.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 75,
+    "fields": {
+      "name": "Lillesand",
+      "latitude": 58.25,
+      "longitude": 8.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 76,
+    "fields": {
+      "name": "Lillestr\u00f8m",
+      "latitude": 59.96,
+      "longitude": 11.05
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 77,
+    "fields": {
+      "name": "Longyearbyen",
+      "latitude": 78.22,
+      "longitude": 15.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 78,
+    "fields": {
+      "name": "L\u00f8renskog",
+      "latitude": 59.93,
+      "longitude": 10.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 79,
+    "fields": {
+      "name": "Lyngdal",
+      "latitude": 58.14,
+      "longitude": 7.07
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 80,
+    "fields": {
+      "name": "M\u00e5l\u00f8y",
+      "latitude": 61.94,
+      "longitude": 5.11
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 81,
+    "fields": {
+      "name": "Mandal",
+      "latitude": 58.03,
+      "longitude": 7.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 82,
+    "fields": {
+      "name": "Moelv",
+      "latitude": 60.93,
+      "longitude": 10.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 83,
+    "fields": {
+      "name": "Mo i Rana",
+      "latitude": 66.31,
+      "longitude": 14.14
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 84,
+    "fields": {
+      "name": "Molde",
+      "latitude": 62.74,
+      "longitude": 7.16
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 85,
+    "fields": {
+      "name": "Mosj\u00f8en",
+      "latitude": 65.84,
+      "longitude": 13.19
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 86,
+    "fields": {
+      "name": "Mysen",
+      "latitude": 59.56,
+      "longitude": 11.33
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 87,
+    "fields": {
+      "name": "Namsos",
+      "latitude": 64.47,
+      "longitude": 11.51
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 88,
+    "fields": {
+      "name": "Narvik",
+      "latitude": 68.44,
+      "longitude": 17.43
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 89,
+    "fields": {
+      "name": "Nesoddtangen",
+      "latitude": 59.86,
+      "longitude": 10.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 90,
+    "fields": {
+      "name": "Notodden",
+      "latitude": 59.56,
+      "longitude": 9.26
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 91,
+    "fields": {
+      "name": "Odda",
+      "latitude": 60.07,
+      "longitude": 6.55
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 92,
+    "fields": {
+      "name": "Oppdal",
+      "latitude": 62.6,
+      "longitude": 9.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 93,
+    "fields": {
+      "name": "Orkanger",
+      "latitude": 63.31,
+      "longitude": 9.85
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 94,
+    "fields": {
+      "name": "\u00d8rsta",
+      "latitude": 62.2,
+      "longitude": 6.13
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 95,
+    "fields": {
+      "name": "Os\u00f8yro",
+      "latitude": 60.19,
+      "longitude": 5.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 96,
+    "fields": {
+      "name": "Otta",
+      "latitude": 61.77,
+      "longitude": 9.54
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 97,
+    "fields": {
+      "name": "R\u00e5holt",
+      "latitude": 60.28,
+      "longitude": 11.17
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 98,
+    "fields": {
+      "name": "Rakkestad",
+      "latitude": 59.43,
+      "longitude": 11.34
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 99,
+    "fields": {
+      "name": "Randaberg",
+      "latitude": 59.0,
+      "longitude": 5.62
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 100,
+    "fields": {
+      "name": "Raufoss",
+      "latitude": 60.73,
+      "longitude": 10.61
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 101,
+    "fields": {
+      "name": "Rijpsburg",
+      "latitude": 78.38,
+      "longitude": 14.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 102,
+    "fields": {
+      "name": "Ris\u00f8r",
+      "latitude": 58.72,
+      "longitude": 9.23
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 103,
+    "fields": {
+      "name": "Rjukan",
+      "latitude": 59.88,
+      "longitude": 8.59
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 104,
+    "fields": {
+      "name": "Rognan",
+      "latitude": 67.1,
+      "longitude": 15.4
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 105,
+    "fields": {
+      "name": "R\u00f8ros",
+      "latitude": 62.57,
+      "longitude": 11.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 106,
+    "fields": {
+      "name": "R\u00f8rvik",
+      "latitude": 64.86,
+      "longitude": 11.23
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 107,
+    "fields": {
+      "name": "Sandnes",
+      "latitude": 58.85,
+      "longitude": 5.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 108,
+    "fields": {
+      "name": "Sandnessj\u00f8en",
+      "latitude": 66.02,
+      "longitude": 12.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 109,
+    "fields": {
+      "name": "Sandvika",
+      "latitude": 59.89,
+      "longitude": 10.53
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 110,
+    "fields": {
+      "name": "Sauda",
+      "latitude": 59.65,
+      "longitude": 6.35
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 111,
+    "fields": {
+      "name": "Ski",
+      "latitude": 59.72,
+      "longitude": 10.84
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 112,
+    "fields": {
+      "name": "Skudeneshavn",
+      "latitude": 59.15,
+      "longitude": 5.26
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 113,
+    "fields": {
+      "name": "Sogndal",
+      "latitude": 61.23,
+      "longitude": 7.09
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 114,
+    "fields": {
+      "name": "Sola",
+      "latitude": 58.89,
+      "longitude": 5.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 115,
+    "fields": {
+      "name": "Sortland",
+      "latitude": 68.71,
+      "longitude": 15.41
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 116,
+    "fields": {
+      "name": "Stathelle",
+      "latitude": 59.05,
+      "longitude": 9.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 117,
+    "fields": {
+      "name": "Stavern",
+      "latitude": 59.0,
+      "longitude": 10.04
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 118,
+    "fields": {
+      "name": "Steinkjer",
+      "latitude": 64.02,
+      "longitude": 11.49
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 119,
+    "fields": {
+      "name": "Stj\u00f8rdal",
+      "latitude": 63.47,
+      "longitude": 10.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 120,
+    "fields": {
+      "name": "Stokmarknes",
+      "latitude": 68.56,
+      "longitude": 14.91
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 121,
+    "fields": {
+      "name": "Storslett",
+      "latitude": 69.77,
+      "longitude": 21.02
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 122,
+    "fields": {
+      "name": "Sunndals\u00f8ra",
+      "latitude": 62.68,
+      "longitude": 8.56
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 123,
+    "fields": {
+      "name": "Svelvik",
+      "latitude": 59.61,
+      "longitude": 10.41
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 124,
+    "fields": {
+      "name": "Svolv\u00e6r",
+      "latitude": 68.23,
+      "longitude": 14.56
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 125,
+    "fields": {
+      "name": "Tvedestrand",
+      "latitude": 58.62,
+      "longitude": 8.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 126,
+    "fields": {
+      "name": "Tynset",
+      "latitude": 62.28,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 127,
+    "fields": {
+      "name": "Ulsteinvik",
+      "latitude": 62.34,
+      "longitude": 5.85
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 128,
+    "fields": {
+      "name": "Utsjoki",
+      "latitude": 69.91,
+      "longitude": 27.03
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 129,
+    "fields": {
+      "name": "Vads\u00f8",
+      "latitude": 70.07,
+      "longitude": 29.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 130,
+    "fields": {
+      "name": "Vard\u00f8",
+      "latitude": 70.37,
+      "longitude": 31.1
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 131,
+    "fields": {
+      "name": "Vennesla",
+      "latitude": 58.27,
+      "longitude": 7.97
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 132,
+    "fields": {
+      "name": "Verdals\u00f8ra",
+      "latitude": 63.79,
+      "longitude": 11.48
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 133,
+    "fields": {
+      "name": "Vinstra",
+      "latitude": 61.6,
+      "longitude": 9.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 134,
+    "fields": {
+      "name": "Volda",
+      "latitude": 62.15,
+      "longitude": 6.07
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 135,
+    "fields": {
+      "name": "Vossavangen",
+      "latitude": 60.63,
+      "longitude": 6.41
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 136,
+    "fields": {
+      "name": "Vuoreija",
+      "latitude": 70.37,
+      "longitude": 31.11
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 137,
+    "fields": {
+      "name": "Abbediengen",
+      "latitude": 59.93,
+      "longitude": 10.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 138,
+    "fields": {
+      "name": "Abilds\u00f8",
+      "latitude": 59.89,
+      "longitude": 10.82
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 139,
+    "fields": {
+      "name": "Adamstuen",
+      "latitude": 59.93,
+      "longitude": 10.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 140,
+    "fields": {
+      "name": "Aker brygge",
+      "latitude": 59.91,
+      "longitude": 10.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 141,
+    "fields": {
+      "name": "Alfaset",
+      "latitude": 59.93,
+      "longitude": 10.85
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 142,
+    "fields": {
+      "name": "Alfheim",
+      "latitude": 69.65,
+      "longitude": 18.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 143,
+    "fields": {
+      "name": "Alnabru",
+      "latitude": 59.93,
+      "longitude": 10.84
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 144,
+    "fields": {
+      "name": "Alvimhaugen",
+      "latitude": 59.27,
+      "longitude": 11.09
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 145,
+    "fields": {
+      "name": "Alv\u00f8en",
+      "latitude": 60.36,
+      "longitude": 5.19
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 146,
+    "fields": {
+      "name": "Ambj\u00f8rnr\u00f8d",
+      "latitude": 59.25,
+      "longitude": 10.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 147,
+    "fields": {
+      "name": "Ammerud",
+      "latitude": 59.96,
+      "longitude": 10.87
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 148,
+    "fields": {
+      "name": "Amtmannsnes",
+      "latitude": 69.99,
+      "longitude": 23.3
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 149,
+    "fields": {
+      "name": "And\u00e5s",
+      "latitude": 65.83,
+      "longitude": 13.24
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 150,
+    "fields": {
+      "name": "Ankenes",
+      "latitude": 68.42,
+      "longitude": 17.39
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 151,
+    "fields": {
+      "name": "Apenes",
+      "latitude": 59.43,
+      "longitude": 10.46
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 152,
+    "fields": {
+      "name": "Apenesfjellet",
+      "latitude": 59.21,
+      "longitude": 10.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 153,
+    "fields": {
+      "name": "Arnatveit",
+      "latitude": 60.41,
+      "longitude": 5.48
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 154,
+    "fields": {
+      "name": "Aronnes",
+      "latitude": 69.97,
+      "longitude": 23.33
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 155,
+    "fields": {
+      "name": "\u00c5rum",
+      "latitude": 59.26,
+      "longitude": 11.1
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 156,
+    "fields": {
+      "name": "\u00c5rvoll",
+      "latitude": 59.95,
+      "longitude": 10.81
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 157,
+    "fields": {
+      "name": "\u00c5sane",
+      "latitude": 60.47,
+      "longitude": 5.32
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 158,
+    "fields": {
+      "name": "\u00c5sbr\u00e5ten",
+      "latitude": 59.83,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 159,
+    "fields": {
+      "name": "\u00c5sen",
+      "latitude": 59.74,
+      "longitude": 10.03
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 160,
+    "fields": {
+      "name": "\u00c5sen",
+      "latitude": 58.94,
+      "longitude": 5.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 161,
+    "fields": {
+      "name": "\u00c5skollen",
+      "latitude": 59.72,
+      "longitude": 10.26
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 162,
+    "fields": {
+      "name": "\u00c5sland",
+      "latitude": 69.68,
+      "longitude": 18.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 163,
+    "fields": {
+      "name": "\u00c5ssiden",
+      "latitude": 59.76,
+      "longitude": 10.14
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 164,
+    "fields": {
+      "name": "Austr\u00e5tt",
+      "latitude": 58.84,
+      "longitude": 5.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 165,
+    "fields": {
+      "name": "\u00c5vangen",
+      "latitude": 59.46,
+      "longitude": 10.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 166,
+    "fields": {
+      "name": "Barbu",
+      "latitude": 58.46,
+      "longitude": 8.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 167,
+    "fields": {
+      "name": "Bark\u00e5ker",
+      "latitude": 59.32,
+      "longitude": 10.39
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 168,
+    "fields": {
+      "name": "B\u00e5smoen",
+      "latitude": 66.33,
+      "longitude": 14.11
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 169,
+    "fields": {
+      "name": "Bede",
+      "latitude": 59.26,
+      "longitude": 11.13
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 170,
+    "fields": {
+      "name": "Bekkelaget",
+      "latitude": 59.88,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 171,
+    "fields": {
+      "name": "Bekkelagsh\u00f8gda",
+      "latitude": 59.88,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 172,
+    "fields": {
+      "name": "Bekkestua",
+      "latitude": 59.92,
+      "longitude": 10.59
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 173,
+    "fields": {
+      "name": "Bekkevoll",
+      "latitude": 69.65,
+      "longitude": 18.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 174,
+    "fields": {
+      "name": "Bellevue",
+      "latitude": 59.44,
+      "longitude": 10.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 175,
+    "fields": {
+      "name": "Berg",
+      "latitude": 59.95,
+      "longitude": 10.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 176,
+    "fields": {
+      "name": "Bergemoen",
+      "latitude": 58.34,
+      "longitude": 8.56
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 177,
+    "fields": {
+      "name": "Bergkrystallen",
+      "latitude": 59.87,
+      "longitude": 10.82
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 178,
+    "fields": {
+      "name": "Bestum",
+      "latitude": 59.92,
+      "longitude": 10.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 179,
+    "fields": {
+      "name": "Billingstad",
+      "latitude": 59.88,
+      "longitude": 10.48
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 180,
+    "fields": {
+      "name": "Bi\u00f8rnebyen",
+      "latitude": 58.87,
+      "longitude": 9.4
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 181,
+    "fields": {
+      "name": "Bislett",
+      "latitude": 59.93,
+      "longitude": 10.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 182,
+    "fields": {
+      "name": "Bjerget",
+      "latitude": 59.44,
+      "longitude": 10.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 183,
+    "fields": {
+      "name": "Bjergsted",
+      "latitude": 58.98,
+      "longitude": 5.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 184,
+    "fields": {
+      "name": "Bjerkaker",
+      "latitude": 69.63,
+      "longitude": 18.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 185,
+    "fields": {
+      "name": "Bjerkakerstranda",
+      "latitude": 69.63,
+      "longitude": 18.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 186,
+    "fields": {
+      "name": "Bjerk\u00e5s",
+      "latitude": 59.79,
+      "longitude": 10.49
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 187,
+    "fields": {
+      "name": "Bjerke",
+      "latitude": 59.94,
+      "longitude": 10.81
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 188,
+    "fields": {
+      "name": "Bj\u00f8lsen",
+      "latitude": 59.94,
+      "longitude": 10.76
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 189,
+    "fields": {
+      "name": "Bj\u00f8lstadfjellet",
+      "latitude": 59.21,
+      "longitude": 10.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 190,
+    "fields": {
+      "name": "Bjorbekk",
+      "latitude": 58.44,
+      "longitude": 8.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 191,
+    "fields": {
+      "name": "Bj\u00f8rkhaug",
+      "latitude": 59.88,
+      "longitude": 8.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 192,
+    "fields": {
+      "name": "Bj\u00f8rndal",
+      "latitude": 60.36,
+      "longitude": 5.25
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 193,
+    "fields": {
+      "name": "Bj\u00f8rndal",
+      "latitude": 59.83,
+      "longitude": 10.84
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 194,
+    "fields": {
+      "name": "Bj\u00f8rnebekken",
+      "latitude": 69.71,
+      "longitude": 18.99
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 195,
+    "fields": {
+      "name": "Bj\u00f8rnemyr",
+      "latitude": 59.83,
+      "longitude": 10.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 196,
+    "fields": {
+      "name": "Bj\u00f8rn\u00f8y",
+      "latitude": 59.0,
+      "longitude": 5.76
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 197,
+    "fields": {
+      "name": "Bj\u00f8rnstad",
+      "latitude": 59.3,
+      "longitude": 11.05
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 198,
+    "fields": {
+      "name": "Bj\u00f8rum",
+      "latitude": 64.47,
+      "longitude": 11.51
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 199,
+    "fields": {
+      "name": "Bj\u00f8rvika",
+      "latitude": 59.91,
+      "longitude": 10.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 200,
+    "fields": {
+      "name": "Blakstad",
+      "latitude": 59.82,
+      "longitude": 10.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 201,
+    "fields": {
+      "name": "Bleikemyr",
+      "latitude": 59.44,
+      "longitude": 5.28
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 202,
+    "fields": {
+      "name": "Bleiker",
+      "latitude": 59.83,
+      "longitude": 10.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 203,
+    "fields": {
+      "name": "Blindern",
+      "latitude": 59.94,
+      "longitude": 10.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 204,
+    "fields": {
+      "name": "Bl\u00f8dekj\u00e6r",
+      "latitude": 58.46,
+      "longitude": 8.76
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 205,
+    "fields": {
+      "name": "Blommenholm",
+      "latitude": 59.9,
+      "longitude": 10.55
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 206,
+    "fields": {
+      "name": "B\u00f8en",
+      "latitude": 59.88,
+      "longitude": 8.59
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 207,
+    "fields": {
+      "name": "Bogafjell",
+      "latitude": 58.81,
+      "longitude": 5.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 208,
+    "fields": {
+      "name": "Bogafjell",
+      "latitude": 58.82,
+      "longitude": 5.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 209,
+    "fields": {
+      "name": "Bogen",
+      "latitude": 64.02,
+      "longitude": 11.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 210,
+    "fields": {
+      "name": "Bogerud",
+      "latitude": 59.88,
+      "longitude": 10.84
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 211,
+    "fields": {
+      "name": "B\u00f8hagen",
+      "latitude": 59.88,
+      "longitude": 8.57
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 212,
+    "fields": {
+      "name": "Bo i nord",
+      "latitude": 69.67,
+      "longitude": 18.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 213,
+    "fields": {
+      "name": "B\u00f8ler",
+      "latitude": 59.88,
+      "longitude": 10.84
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 214,
+    "fields": {
+      "name": "Bondi",
+      "latitude": 59.82,
+      "longitude": 10.44
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 215,
+    "fields": {
+      "name": "B\u00f8nes",
+      "latitude": 60.33,
+      "longitude": 5.3
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 216,
+    "fields": {
+      "name": "Borgen",
+      "latitude": 59.82,
+      "longitude": 10.43
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 217,
+    "fields": {
+      "name": "Borgen",
+      "latitude": 59.82,
+      "longitude": 10.43
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 218,
+    "fields": {
+      "name": "Borgen",
+      "latitude": 59.27,
+      "longitude": 11.16
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 219,
+    "fields": {
+      "name": "Borgenhaugen",
+      "latitude": 59.27,
+      "longitude": 11.18
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 220,
+    "fields": {
+      "name": "Borgheim",
+      "latitude": 59.23,
+      "longitude": 10.41
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 221,
+    "fields": {
+      "name": "Bossekop",
+      "latitude": 69.96,
+      "longitude": 23.24
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 222,
+    "fields": {
+      "name": "Bragernes",
+      "latitude": 59.75,
+      "longitude": 10.21
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 223,
+    "fields": {
+      "name": "Bratsberg",
+      "latitude": 59.2,
+      "longitude": 9.62
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 224,
+    "fields": {
+      "name": "Bratt\u00e5s",
+      "latitude": 59.1,
+      "longitude": 9.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 225,
+    "fields": {
+      "name": "Brattekleiv",
+      "latitude": 58.45,
+      "longitude": 8.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 226,
+    "fields": {
+      "name": "Brattlikollen",
+      "latitude": 59.89,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 227,
+    "fields": {
+      "name": "Bredtvet",
+      "latitude": 59.95,
+      "longitude": 10.86
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 228,
+    "fields": {
+      "name": "Breidablikk",
+      "latitude": 59.16,
+      "longitude": 9.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 229,
+    "fields": {
+      "name": "Breidablikk",
+      "latitude": 59.14,
+      "longitude": 10.23
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 230,
+    "fields": {
+      "name": "Breivika",
+      "latitude": 69.68,
+      "longitude": 18.98
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 231,
+    "fields": {
+      "name": "Breivoll",
+      "latitude": 59.92,
+      "longitude": 10.84
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 232,
+    "fields": {
+      "name": "Brekke",
+      "latitude": 59.97,
+      "longitude": 10.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 233,
+    "fields": {
+      "name": "Brekke",
+      "latitude": 59.29,
+      "longitude": 10.48
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 234,
+    "fields": {
+      "name": "Brenna",
+      "latitude": 59.85,
+      "longitude": 10.84
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 235,
+    "fields": {
+      "name": "Brobekk",
+      "latitude": 59.94,
+      "longitude": 10.82
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 236,
+    "fields": {
+      "name": "Br\u00f8dl\u00f8s",
+      "latitude": 59.14,
+      "longitude": 11.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 237,
+    "fields": {
+      "name": "Br\u00f8dl\u00f8s",
+      "latitude": 59.14,
+      "longitude": 11.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 238,
+    "fields": {
+      "name": "Bryn",
+      "latitude": 59.91,
+      "longitude": 10.82
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 239,
+    "fields": {
+      "name": "Bug\u00e5rden",
+      "latitude": 59.14,
+      "longitude": 10.2
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 240,
+    "fields": {
+      "name": "Buggeland",
+      "latitude": 58.81,
+      "longitude": 5.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 241,
+    "fields": {
+      "name": "Bukta",
+      "latitude": 69.98,
+      "longitude": 23.3
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 242,
+    "fields": {
+      "name": "Bu\u00f8y",
+      "latitude": 58.99,
+      "longitude": 5.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 243,
+    "fields": {
+      "name": "Buvika",
+      "latitude": 58.73,
+      "longitude": 9.24
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 244,
+    "fields": {
+      "name": "Byafossen",
+      "latitude": 64.03,
+      "longitude": 11.55
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 245,
+    "fields": {
+      "name": "By\u00e5sen",
+      "latitude": 63.4,
+      "longitude": 10.36
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 246,
+    "fields": {
+      "name": "Bydalen",
+      "latitude": 59.21,
+      "longitude": 10.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 247,
+    "fields": {
+      "name": "Bygd\u00f8y",
+      "latitude": 59.9,
+      "longitude": 10.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 248,
+    "fields": {
+      "name": "Byskogen",
+      "latitude": 59.06,
+      "longitude": 10.04
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 249,
+    "fields": {
+      "name": "Carl Berner",
+      "latitude": 59.93,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 250,
+    "fields": {
+      "name": "Christianslund",
+      "latitude": 59.22,
+      "longitude": 10.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 251,
+    "fields": {
+      "name": "Cicignon",
+      "latitude": 59.21,
+      "longitude": 10.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 252,
+    "fields": {
+      "name": "D\u00e6lenenga",
+      "latitude": 59.93,
+      "longitude": 10.76
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 253,
+    "fields": {
+      "name": "Dal",
+      "latitude": 59.85,
+      "longitude": 10.84
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 254,
+    "fields": {
+      "name": "Dalane",
+      "latitude": 58.87,
+      "longitude": 9.37
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 255,
+    "fields": {
+      "name": "Dalenget",
+      "latitude": 65.86,
+      "longitude": 13.2
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 256,
+    "fields": {
+      "name": "Damsg\u00e5rd",
+      "latitude": 60.39,
+      "longitude": 5.3
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 257,
+    "fields": {
+      "name": "Damyr",
+      "latitude": 59.21,
+      "longitude": 10.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 258,
+    "fields": {
+      "name": "Dikemark",
+      "latitude": 59.81,
+      "longitude": 10.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 259,
+    "fields": {
+      "name": "Dilling",
+      "latitude": 59.41,
+      "longitude": 10.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 260,
+    "fields": {
+      "name": "Disen",
+      "latitude": 59.94,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 261,
+    "fields": {
+      "name": "D\u00f8nski",
+      "latitude": 59.9,
+      "longitude": 10.5
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 262,
+    "fields": {
+      "name": "Drangeid",
+      "latitude": 58.31,
+      "longitude": 6.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 263,
+    "fields": {
+      "name": "Drengsrud",
+      "latitude": 59.82,
+      "longitude": 10.4
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 264,
+    "fields": {
+      "name": "Dyrl\u00f8kke",
+      "latitude": 59.67,
+      "longitude": 10.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 265,
+    "fields": {
+      "name": "Ebbestad",
+      "latitude": 59.62,
+      "longitude": 10.4
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 266,
+    "fields": {
+      "name": "Egge",
+      "latitude": 64.03,
+      "longitude": 11.48
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 267,
+    "fields": {
+      "name": "Eidanger",
+      "latitude": 59.12,
+      "longitude": 9.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 268,
+    "fields": {
+      "name": "Eidkjosen",
+      "latitude": 69.68,
+      "longitude": 18.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 269,
+    "fields": {
+      "name": "Eidsv\u00e5g",
+      "latitude": 60.44,
+      "longitude": 5.29
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 270,
+    "fields": {
+      "name": "Eidsv\u00e5gneset",
+      "latitude": 60.44,
+      "longitude": 5.28
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 271,
+    "fields": {
+      "name": "Eiganes",
+      "latitude": 58.96,
+      "longitude": 5.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 272,
+    "fields": {
+      "name": "Eik",
+      "latitude": 59.03,
+      "longitude": 9.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 273,
+    "fields": {
+      "name": "Eik",
+      "latitude": 59.29,
+      "longitude": 10.42
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 274,
+    "fields": {
+      "name": "Eiksmarka",
+      "latitude": 59.95,
+      "longitude": 10.63
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 275,
+    "fields": {
+      "name": "Eiksr\u00f8nningen",
+      "latitude": 59.04,
+      "longitude": 9.71
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 276,
+    "fields": {
+      "name": "Ekeberg",
+      "latitude": 59.9,
+      "longitude": 10.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 277,
+    "fields": {
+      "name": "Ekebergskrenten",
+      "latitude": 59.9,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 278,
+    "fields": {
+      "name": "Ekholt",
+      "latitude": 59.41,
+      "longitude": 10.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 279,
+    "fields": {
+      "name": "Ellingsrud",
+      "latitude": 59.93,
+      "longitude": 10.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 280,
+    "fields": {
+      "name": "Elvebakken",
+      "latitude": 69.97,
+      "longitude": 23.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 281,
+    "fields": {
+      "name": "Elverh\u00f8y",
+      "latitude": 69.65,
+      "longitude": 18.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 282,
+    "fields": {
+      "name": "Endrest\u00f8",
+      "latitude": 58.98,
+      "longitude": 5.61
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 283,
+    "fields": {
+      "name": "Enerhaugen",
+      "latitude": 59.91,
+      "longitude": 10.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 284,
+    "fields": {
+      "name": "Engelsrud",
+      "latitude": 59.82,
+      "longitude": 10.36
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 285,
+    "fields": {
+      "name": "Eng\u00f8y",
+      "latitude": 58.98,
+      "longitude": 5.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 286,
+    "fields": {
+      "name": "Ensj\u00f8",
+      "latitude": 59.91,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 287,
+    "fields": {
+      "name": "Ervik",
+      "latitude": 60.44,
+      "longitude": 5.32
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 288,
+    "fields": {
+      "name": "Eskeviken",
+      "latitude": 59.11,
+      "longitude": 11.39
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 289,
+    "fields": {
+      "name": "Espeland",
+      "latitude": 60.27,
+      "longitude": 5.23
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 290,
+    "fields": {
+      "name": "Etterstad",
+      "latitude": 59.91,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 291,
+    "fields": {
+      "name": "Evje",
+      "latitude": 59.9,
+      "longitude": 10.51
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 292,
+    "fields": {
+      "name": "F\u00e6rvik",
+      "latitude": 58.46,
+      "longitude": 8.82
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 293,
+    "fields": {
+      "name": "Fagerborg",
+      "latitude": 59.93,
+      "longitude": 10.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 294,
+    "fields": {
+      "name": "Fagereng",
+      "latitude": 69.64,
+      "longitude": 18.9
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 295,
+    "fields": {
+      "name": "Fagernes",
+      "latitude": 68.41,
+      "longitude": 17.43
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 296,
+    "fields": {
+      "name": "Falch\u00e5sen",
+      "latitude": 59.23,
+      "longitude": 10.96
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 297,
+    "fields": {
+      "name": "Fana",
+      "latitude": 60.26,
+      "longitude": 5.35
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 298,
+    "fields": {
+      "name": "Fantoft",
+      "latitude": 60.35,
+      "longitude": 5.36
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 299,
+    "fields": {
+      "name": "Filipstad",
+      "latitude": 59.91,
+      "longitude": 10.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 300,
+    "fields": {
+      "name": "Finneid",
+      "latitude": 67.26,
+      "longitude": 15.43
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 301,
+    "fields": {
+      "name": "Finstad",
+      "latitude": 59.72,
+      "longitude": 10.82
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 302,
+    "fields": {
+      "name": "Finstad",
+      "latitude": 59.91,
+      "longitude": 10.96
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 303,
+    "fields": {
+      "name": "Fiskarstrand",
+      "latitude": 62.44,
+      "longitude": 6.27
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 304,
+    "fields": {
+      "name": "Fiske",
+      "latitude": 59.43,
+      "longitude": 10.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 305,
+    "fields": {
+      "name": "Fj\u00e6re",
+      "latitude": 58.36,
+      "longitude": 8.59
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 306,
+    "fields": {
+      "name": "Fjeldsetlia",
+      "latitude": 60.87,
+      "longitude": 11.58
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 307,
+    "fields": {
+      "name": "Fjell",
+      "latitude": 59.72,
+      "longitude": 10.22
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 308,
+    "fields": {
+      "name": "Fjellhamar",
+      "latitude": 59.94,
+      "longitude": 10.98
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 309,
+    "fields": {
+      "name": "Flaen",
+      "latitude": 59.95,
+      "longitude": 10.87
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 310,
+    "fields": {
+      "name": "Flaktveit",
+      "latitude": 60.47,
+      "longitude": 5.36
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 311,
+    "fields": {
+      "name": "Forh\u00e5pningen",
+      "latitude": 69.66,
+      "longitude": 18.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 312,
+    "fields": {
+      "name": "Fornebu",
+      "latitude": 59.9,
+      "longitude": 10.63
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 313,
+    "fields": {
+      "name": "Forus",
+      "latitude": 58.89,
+      "longitude": 5.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 314,
+    "fields": {
+      "name": "Fossbrenna",
+      "latitude": 64.48,
+      "longitude": 11.54
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 315,
+    "fields": {
+      "name": "Fossum",
+      "latitude": 59.96,
+      "longitude": 10.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 316,
+    "fields": {
+      "name": "Foynland",
+      "latitude": 59.24,
+      "longitude": 10.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 317,
+    "fields": {
+      "name": "Framnes",
+      "latitude": 59.43,
+      "longitude": 10.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 318,
+    "fields": {
+      "name": "Fridalen",
+      "latitude": 60.37,
+      "longitude": 5.36
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 319,
+    "fields": {
+      "name": "Friheim",
+      "latitude": 58.97,
+      "longitude": 5.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 320,
+    "fields": {
+      "name": "Frivoll",
+      "latitude": 58.35,
+      "longitude": 8.58
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 321,
+    "fields": {
+      "name": "Fr\u00f8en",
+      "latitude": 59.93,
+      "longitude": 10.71
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 322,
+    "fields": {
+      "name": "Frogner",
+      "latitude": 59.92,
+      "longitude": 10.71
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 323,
+    "fields": {
+      "name": "Fr\u00f8ysland",
+      "latitude": 58.04,
+      "longitude": 7.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 324,
+    "fields": {
+      "name": "Frydenberg",
+      "latitude": 59.22,
+      "longitude": 10.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 325,
+    "fields": {
+      "name": "Frydendal",
+      "latitude": 58.72,
+      "longitude": 9.21
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 326,
+    "fields": {
+      "name": "Frydenlund",
+      "latitude": 68.44,
+      "longitude": 17.41
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 327,
+    "fields": {
+      "name": "Furuset",
+      "latitude": 59.94,
+      "longitude": 10.89
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 328,
+    "fields": {
+      "name": "Fyllingsdalen",
+      "latitude": 60.36,
+      "longitude": 5.3
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 329,
+    "fields": {
+      "name": "Gaarderl\u00f8kka",
+      "latitude": 60.87,
+      "longitude": 11.57
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 330,
+    "fields": {
+      "name": "Gakori",
+      "latitude": 69.95,
+      "longitude": 23.22
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 331,
+    "fields": {
+      "name": "Galgeberg",
+      "latitude": 59.91,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 332,
+    "fields": {
+      "name": "Gamle Aker",
+      "latitude": 59.92,
+      "longitude": 10.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 333,
+    "fields": {
+      "name": "Gamlebyen",
+      "latitude": 59.2,
+      "longitude": 10.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 334,
+    "fields": {
+      "name": "Gamlebyen",
+      "latitude": 59.9,
+      "longitude": 10.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 335,
+    "fields": {
+      "name": "Gammelg\u00e5rd",
+      "latitude": 69.63,
+      "longitude": 18.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 336,
+    "fields": {
+      "name": "Ganddal",
+      "latitude": 58.82,
+      "longitude": 5.71
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 337,
+    "fields": {
+      "name": "G\u00e5rdbo",
+      "latitude": 59.28,
+      "longitude": 10.48
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 338,
+    "fields": {
+      "name": "Gausel",
+      "latitude": 58.91,
+      "longitude": 5.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 339,
+    "fields": {
+      "name": "Gaustad",
+      "latitude": 59.95,
+      "longitude": 10.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 340,
+    "fields": {
+      "name": "Gauter\u00f8d",
+      "latitude": 59.28,
+      "longitude": 10.46
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 341,
+    "fields": {
+      "name": "Gimle",
+      "latitude": 59.14,
+      "longitude": 11.4
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 342,
+    "fields": {
+      "name": "Gimle",
+      "latitude": 69.69,
+      "longitude": 18.99
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 343,
+    "fields": {
+      "name": "Gimlekollen",
+      "latitude": 58.17,
+      "longitude": 8.03
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 344,
+    "fields": {
+      "name": "Gims\u00f8y",
+      "latitude": 59.19,
+      "longitude": 9.61
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 345,
+    "fields": {
+      "name": "Gjerpen",
+      "latitude": 59.22,
+      "longitude": 9.61
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 346,
+    "fields": {
+      "name": "Gjerrebogen",
+      "latitude": 59.44,
+      "longitude": 10.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 347,
+    "fields": {
+      "name": "Gjettum",
+      "latitude": 59.91,
+      "longitude": 10.53
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 348,
+    "fields": {
+      "name": "Glemmen",
+      "latitude": 59.22,
+      "longitude": 10.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 349,
+    "fields": {
+      "name": "Glemmen",
+      "latitude": 59.22,
+      "longitude": 10.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 350,
+    "fields": {
+      "name": "Gleng",
+      "latitude": 59.29,
+      "longitude": 11.12
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 351,
+    "fields": {
+      "name": "Glombo",
+      "latitude": 59.2,
+      "longitude": 10.91
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 352,
+    "fields": {
+      "name": "Goa byggefelt",
+      "latitude": 58.99,
+      "longitude": 5.61
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 353,
+    "fields": {
+      "name": "Godeset",
+      "latitude": 58.9,
+      "longitude": 5.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 354,
+    "fields": {
+      "name": "Godlia",
+      "latitude": 59.91,
+      "longitude": 10.84
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 355,
+    "fields": {
+      "name": "Godvik",
+      "latitude": 60.38,
+      "longitude": 5.19
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 356,
+    "fields": {
+      "name": "Gomalandet",
+      "latitude": 63.12,
+      "longitude": 7.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 357,
+    "fields": {
+      "name": "Gr\u00e5lum",
+      "latitude": 59.29,
+      "longitude": 11.07
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 358,
+    "fields": {
+      "name": "Grannes",
+      "latitude": 58.93,
+      "longitude": 5.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 359,
+    "fields": {
+      "name": "Grasmyr",
+      "latitude": 59.03,
+      "longitude": 9.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 360,
+    "fields": {
+      "name": "Gravdal",
+      "latitude": 60.39,
+      "longitude": 5.26
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 361,
+    "fields": {
+      "name": "Grefsen",
+      "latitude": 59.95,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 362,
+    "fields": {
+      "name": "Grim",
+      "latitude": 58.15,
+      "longitude": 7.97
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 363,
+    "fields": {
+      "name": "Grindvoll",
+      "latitude": 59.45,
+      "longitude": 10.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 364,
+    "fields": {
+      "name": "Gr\u00f8nland",
+      "latitude": 59.91,
+      "longitude": 10.76
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 365,
+    "fields": {
+      "name": "Gr\u00f8nli",
+      "latitude": 59.22,
+      "longitude": 10.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 366,
+    "fields": {
+      "name": "Groos\u00e5sen",
+      "latitude": 58.33,
+      "longitude": 8.58
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 367,
+    "fields": {
+      "name": "Grorud",
+      "latitude": 59.96,
+      "longitude": 10.88
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 368,
+    "fields": {
+      "name": "Grovane",
+      "latitude": 58.3,
+      "longitude": 7.98
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 369,
+    "fields": {
+      "name": "Grunden",
+      "latitude": 59.6,
+      "longitude": 10.41
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 370,
+    "fields": {
+      "name": "Gr\u00fcnerl\u00f8kka",
+      "latitude": 59.92,
+      "longitude": 10.76
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 371,
+    "fields": {
+      "name": "Guldbergaunet",
+      "latitude": 64.02,
+      "longitude": 11.51
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 372,
+    "fields": {
+      "name": "Guleng",
+      "latitude": 69.67,
+      "longitude": 18.96
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 373,
+    "fields": {
+      "name": "Gullfjellet",
+      "latitude": 60.37,
+      "longitude": 5.58
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 374,
+    "fields": {
+      "name": "Gullhella",
+      "latitude": 59.81,
+      "longitude": 10.44
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 375,
+    "fields": {
+      "name": "Gullvika",
+      "latitude": 64.48,
+      "longitude": 11.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 376,
+    "fields": {
+      "name": "Gulset",
+      "latitude": 59.22,
+      "longitude": 9.57
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 377,
+    "fields": {
+      "name": "Gulskogen",
+      "latitude": 59.74,
+      "longitude": 10.16
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 378,
+    "fields": {
+      "name": "Gyldenpris",
+      "latitude": 60.38,
+      "longitude": 5.32
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 379,
+    "fields": {
+      "name": "H\u00e5bet",
+      "latitude": 58.83,
+      "longitude": 5.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 380,
+    "fields": {
+      "name": "Hafslund",
+      "latitude": 59.27,
+      "longitude": 11.16
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 381,
+    "fields": {
+      "name": "Hafslunds\u00f8y",
+      "latitude": 59.29,
+      "longitude": 11.15
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 382,
+    "fields": {
+      "name": "Hagal\u00f8kka",
+      "latitude": 59.83,
+      "longitude": 10.43
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 383,
+    "fields": {
+      "name": "H\u00e5konshella",
+      "latitude": 60.34,
+      "longitude": 5.19
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 384,
+    "fields": {
+      "name": "H\u00e5landsvannet",
+      "latitude": 58.98,
+      "longitude": 5.62
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 385,
+    "fields": {
+      "name": "Halse",
+      "latitude": 58.03,
+      "longitude": 7.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 386,
+    "fields": {
+      "name": "Halsen",
+      "latitude": 59.04,
+      "longitude": 10.07
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 387,
+    "fields": {
+      "name": "Halsmoen",
+      "latitude": 65.85,
+      "longitude": 13.2
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 388,
+    "fields": {
+      "name": "Hals\u00f8ya",
+      "latitude": 65.86,
+      "longitude": 13.19
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 389,
+    "fields": {
+      "name": "Hamna",
+      "latitude": 69.7,
+      "longitude": 18.98
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 390,
+    "fields": {
+      "name": "Hamna s\u00f8r",
+      "latitude": 69.7,
+      "longitude": 18.97
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 391,
+    "fields": {
+      "name": "Hamresanden",
+      "latitude": 58.19,
+      "longitude": 8.08
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 392,
+    "fields": {
+      "name": "Hana",
+      "latitude": 58.86,
+      "longitude": 5.76
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 393,
+    "fields": {
+      "name": "H\u00e5nes",
+      "latitude": 58.18,
+      "longitude": 8.09
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 394,
+    "fields": {
+      "name": "Hannestad",
+      "latitude": 59.27,
+      "longitude": 11.05
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 395,
+    "fields": {
+      "name": "Hannestad",
+      "latitude": 59.28,
+      "longitude": 11.06
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 396,
+    "fields": {
+      "name": "Hansjordnesbukta",
+      "latitude": 69.66,
+      "longitude": 18.97
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 397,
+    "fields": {
+      "name": "Hansmark",
+      "latitude": 69.65,
+      "longitude": 18.91
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 398,
+    "fields": {
+      "name": "Hanstad",
+      "latitude": 60.86,
+      "longitude": 11.57
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 399,
+    "fields": {
+      "name": "H\u00e5pet",
+      "latitude": 69.68,
+      "longitude": 18.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 400,
+    "fields": {
+      "name": "Harebakken",
+      "latitude": 58.48,
+      "longitude": 8.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 401,
+    "fields": {
+      "name": "Hasle",
+      "latitude": 59.31,
+      "longitude": 11.16
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 402,
+    "fields": {
+      "name": "Hasle",
+      "latitude": 59.93,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 403,
+    "fields": {
+      "name": "Haslum",
+      "latitude": 59.92,
+      "longitude": 10.56
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 404,
+    "fields": {
+      "name": "Hassingen",
+      "latitude": 59.21,
+      "longitude": 10.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 405,
+    "fields": {
+      "name": "Hauge",
+      "latitude": 59.25,
+      "longitude": 10.99
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 406,
+    "fields": {
+      "name": "Haugenstua",
+      "latitude": 59.95,
+      "longitude": 10.91
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 407,
+    "fields": {
+      "name": "Haugerud",
+      "latitude": 59.92,
+      "longitude": 10.86
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 408,
+    "fields": {
+      "name": "Haugsten",
+      "latitude": 59.21,
+      "longitude": 10.98
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 409,
+    "fields": {
+      "name": "Hauketo",
+      "latitude": 59.85,
+      "longitude": 10.81
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 410,
+    "fields": {
+      "name": "Hauknes",
+      "latitude": 66.29,
+      "longitude": 14.06
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 411,
+    "fields": {
+      "name": "Havstad",
+      "latitude": 58.47,
+      "longitude": 8.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 412,
+    "fields": {
+      "name": "Heer",
+      "latitude": 59.68,
+      "longitude": 10.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 413,
+    "fields": {
+      "name": "Hegdal",
+      "latitude": 59.06,
+      "longitude": 10.08
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 414,
+    "fields": {
+      "name": "Heggeli",
+      "latitude": 59.93,
+      "longitude": 10.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 415,
+    "fields": {
+      "name": "Hegges\u00e5sen",
+      "latitude": 64.03,
+      "longitude": 11.49
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 416,
+    "fields": {
+      "name": "Heimdal",
+      "latitude": 63.35,
+      "longitude": 10.36
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 417,
+    "fields": {
+      "name": "Heistad",
+      "latitude": 59.08,
+      "longitude": 9.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 418,
+    "fields": {
+      "name": "Hellemyr",
+      "latitude": 58.15,
+      "longitude": 7.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 419,
+    "fields": {
+      "name": "Hellerud",
+      "latitude": 59.91,
+      "longitude": 10.85
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 420,
+    "fields": {
+      "name": "Helsfyr",
+      "latitude": 59.91,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 421,
+    "fields": {
+      "name": "Her\u00f8ya",
+      "latitude": 59.11,
+      "longitude": 9.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 422,
+    "fields": {
+      "name": "Hetlevik",
+      "latitude": 60.36,
+      "longitude": 5.22
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 423,
+    "fields": {
+      "name": "Hillev\u00e5g",
+      "latitude": 58.95,
+      "longitude": 5.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 424,
+    "fields": {
+      "name": "Hinna",
+      "latitude": 58.92,
+      "longitude": 5.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 425,
+    "fields": {
+      "name": "Hinna",
+      "latitude": 58.92,
+      "longitude": 5.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 426,
+    "fields": {
+      "name": "His",
+      "latitude": 58.43,
+      "longitude": 8.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 427,
+    "fields": {
+      "name": "Hjemmeluft",
+      "latitude": 69.95,
+      "longitude": 23.19
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 428,
+    "fields": {
+      "name": "Hjorten",
+      "latitude": 69.64,
+      "longitude": 18.97
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 429,
+    "fields": {
+      "name": "Hoff",
+      "latitude": 59.93,
+      "longitude": 10.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 430,
+    "fields": {
+      "name": "Hoffland",
+      "latitude": 62.49,
+      "longitude": 6.2
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 431,
+    "fields": {
+      "name": "H\u00f8g\u00e5s",
+      "latitude": 59.57,
+      "longitude": 9.3
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 432,
+    "fields": {
+      "name": "H\u00f8gberget",
+      "latitude": 63.72,
+      "longitude": 11.28
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 433,
+    "fields": {
+      "name": "Hogsnes",
+      "latitude": 59.27,
+      "longitude": 10.36
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 434,
+    "fields": {
+      "name": "H\u00f8knes",
+      "latitude": 64.47,
+      "longitude": 11.54
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 435,
+    "fields": {
+      "name": "Holm",
+      "latitude": 59.83,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 436,
+    "fields": {
+      "name": "Holmen",
+      "latitude": 59.95,
+      "longitude": 10.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 437,
+    "fields": {
+      "name": "Holmen",
+      "latitude": 59.22,
+      "longitude": 10.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 438,
+    "fields": {
+      "name": "Holmen",
+      "latitude": 59.86,
+      "longitude": 10.49
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 439,
+    "fields": {
+      "name": "Holmen",
+      "latitude": 59.95,
+      "longitude": 10.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 440,
+    "fields": {
+      "name": "Holmenkollen",
+      "latitude": 59.96,
+      "longitude": 10.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 441,
+    "fields": {
+      "name": "Holmlia",
+      "latitude": 59.84,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 442,
+    "fields": {
+      "name": "Holtandalen",
+      "latitude": 59.41,
+      "longitude": 10.46
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 443,
+    "fields": {
+      "name": "Holtet",
+      "latitude": 59.88,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 444,
+    "fields": {
+      "name": "Holviga",
+      "latitude": 58.32,
+      "longitude": 8.57
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 445,
+    "fields": {
+      "name": "Hopperen",
+      "latitude": 59.43,
+      "longitude": 10.63
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 446,
+    "fields": {
+      "name": "Hosle",
+      "latitude": 59.93,
+      "longitude": 10.58
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 447,
+    "fields": {
+      "name": "Hov",
+      "latitude": 62.67,
+      "longitude": 8.57
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 448,
+    "fields": {
+      "name": "Hovenga",
+      "latitude": 59.15,
+      "longitude": 9.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 449,
+    "fields": {
+      "name": "Hovet",
+      "latitude": 59.11,
+      "longitude": 9.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 450,
+    "fields": {
+      "name": "H\u00f8vik",
+      "latitude": 59.9,
+      "longitude": 10.58
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 451,
+    "fields": {
+      "name": "Hovin",
+      "latitude": 59.92,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 452,
+    "fields": {
+      "name": "Hovland",
+      "latitude": 59.07,
+      "longitude": 10.05
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 453,
+    "fields": {
+      "name": "H\u00f8vleriet",
+      "latitude": 59.12,
+      "longitude": 11.37
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 454,
+    "fields": {
+      "name": "Hovseter",
+      "latitude": 59.95,
+      "longitude": 10.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 455,
+    "fields": {
+      "name": "H\u00f8ybr\u00e5ten",
+      "latitude": 59.95,
+      "longitude": 10.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 456,
+    "fields": {
+      "name": "H\u00f8yden",
+      "latitude": 59.41,
+      "longitude": 10.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 457,
+    "fields": {
+      "name": "H\u00f8yenhall",
+      "latitude": 59.9,
+      "longitude": 10.82
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 458,
+    "fields": {
+      "name": "Hundv\u00e5g",
+      "latitude": 59.0,
+      "longitude": 5.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 459,
+    "fields": {
+      "name": "Hungeren",
+      "latitude": 69.64,
+      "longitude": 18.98
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 460,
+    "fields": {
+      "name": "Huseby",
+      "latitude": 59.94,
+      "longitude": 10.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 461,
+    "fields": {
+      "name": "Husvik",
+      "latitude": 59.25,
+      "longitude": 10.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 462,
+    "fields": {
+      "name": "Hvalstad",
+      "latitude": 59.86,
+      "longitude": 10.46
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 463,
+    "fields": {
+      "name": "Hvalstad",
+      "latitude": 59.86,
+      "longitude": 10.46
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 464,
+    "fields": {
+      "name": "Hydal",
+      "latitude": 59.02,
+      "longitude": 9.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 465,
+    "fields": {
+      "name": "Hystad",
+      "latitude": 59.11,
+      "longitude": 10.22
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 466,
+    "fields": {
+      "name": "Ila",
+      "latitude": 63.43,
+      "longitude": 10.37
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 467,
+    "fields": {
+      "name": "Ilebrekke",
+      "latitude": 59.29,
+      "longitude": 10.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 468,
+    "fields": {
+      "name": "Ime",
+      "latitude": 58.03,
+      "longitude": 7.5
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 469,
+    "fields": {
+      "name": "Ingolfsland",
+      "latitude": 59.88,
+      "longitude": 8.62
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 470,
+    "fields": {
+      "name": "Innlandet",
+      "latitude": 63.11,
+      "longitude": 7.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 471,
+    "fields": {
+      "name": "J\u00e6ktbyen",
+      "latitude": 64.01,
+      "longitude": 11.49
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 472,
+    "fields": {
+      "name": "Jakobsbr\u00e5tan",
+      "latitude": 59.9,
+      "longitude": 11.09
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 473,
+    "fields": {
+      "name": "Jar",
+      "latitude": 59.92,
+      "longitude": 10.62
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 474,
+    "fields": {
+      "name": "J\u00e5tt\u00e5",
+      "latitude": 58.91,
+      "longitude": 5.71
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 475,
+    "fields": {
+      "name": "J\u00e5tt\u00e5v\u00e5gen",
+      "latitude": 58.92,
+      "longitude": 5.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 476,
+    "fields": {
+      "name": "Jomfrubr\u00e5ten",
+      "latitude": 59.89,
+      "longitude": 10.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 477,
+    "fields": {
+      "name": "Jordal",
+      "latitude": 60.43,
+      "longitude": 5.37
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 478,
+    "fields": {
+      "name": "Jordal",
+      "latitude": 59.91,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 479,
+    "fields": {
+      "name": "J\u00f8rstadmoen",
+      "latitude": 61.15,
+      "longitude": 10.39
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 480,
+    "fields": {
+      "name": "Justvik",
+      "latitude": 58.2,
+      "longitude": 8.03
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 481,
+    "fields": {
+      "name": "Kaiskuru",
+      "latitude": 69.96,
+      "longitude": 23.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 482,
+    "fields": {
+      "name": "Kalbakken",
+      "latitude": 59.95,
+      "longitude": 10.87
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 483,
+    "fields": {
+      "name": "Kaldfjord",
+      "latitude": 69.68,
+      "longitude": 18.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 484,
+    "fields": {
+      "name": "Kaldnes",
+      "latitude": 59.26,
+      "longitude": 10.4
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 485,
+    "fields": {
+      "name": "Kallum",
+      "latitude": 59.42,
+      "longitude": 10.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 486,
+    "fields": {
+      "name": "Kalstad",
+      "latitude": 58.87,
+      "longitude": 9.39
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 487,
+    "fields": {
+      "name": "Kambo",
+      "latitude": 59.48,
+      "longitude": 10.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 488,
+    "fields": {
+      "name": "Kamfjord",
+      "latitude": 59.13,
+      "longitude": 10.25
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 489,
+    "fields": {
+      "name": "Kampen",
+      "latitude": 58.97,
+      "longitude": 5.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 490,
+    "fields": {
+      "name": "Kampen",
+      "latitude": 59.91,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 491,
+    "fields": {
+      "name": "Kapellfjellet",
+      "latitude": 59.21,
+      "longitude": 10.96
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 492,
+    "fields": {
+      "name": "Karihaugen",
+      "latitude": 59.94,
+      "longitude": 10.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 493,
+    "fields": {
+      "name": "Karljohansvern",
+      "latitude": 59.43,
+      "longitude": 10.49
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 494,
+    "fields": {
+      "name": "Karlsrud",
+      "latitude": 59.88,
+      "longitude": 10.81
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 495,
+    "fields": {
+      "name": "Karrestad",
+      "latitude": 59.13,
+      "longitude": 11.36
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 496,
+    "fields": {
+      "name": "Kastellet",
+      "latitude": 59.87,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 497,
+    "fields": {
+      "name": "Kastetskogen",
+      "latitude": 59.13,
+      "longitude": 10.27
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 498,
+    "fields": {
+      "name": "Keyserl\u00f8kka",
+      "latitude": 59.92,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 499,
+    "fields": {
+      "name": "Kirkhaugen",
+      "latitude": 67.3,
+      "longitude": 14.41
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 500,
+    "fields": {
+      "name": "Kirklandet",
+      "latitude": 63.12,
+      "longitude": 7.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 501,
+    "fields": {
+      "name": "Kjeller",
+      "latitude": 59.97,
+      "longitude": 11.05
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 502,
+    "fields": {
+      "name": "Kjellestadjordene",
+      "latitude": 59.04,
+      "longitude": 9.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 503,
+    "fields": {
+      "name": "Kjels\u00e5s",
+      "latitude": 59.96,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 504,
+    "fields": {
+      "name": "Kjerreidhaugane",
+      "latitude": 60.34,
+      "longitude": 5.25
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 505,
+    "fields": {
+      "name": "Kj\u00f8kkelvik",
+      "latitude": 60.39,
+      "longitude": 5.23
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 506,
+    "fields": {
+      "name": "Klavestadhaugen",
+      "latitude": 59.26,
+      "longitude": 11.17
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 507,
+    "fields": {
+      "name": "Kleivbrottet",
+      "latitude": 59.48,
+      "longitude": 10.31
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 508,
+    "fields": {
+      "name": "Kleiver",
+      "latitude": 59.76,
+      "longitude": 10.4
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 509,
+    "fields": {
+      "name": "Kleiver\u00f8d",
+      "latitude": 59.51,
+      "longitude": 10.28
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 510,
+    "fields": {
+      "name": "Klemetsrud",
+      "latitude": 59.83,
+      "longitude": 10.85
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 511,
+    "fields": {
+      "name": "Kleven",
+      "latitude": 58.02,
+      "longitude": 7.48
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 512,
+    "fields": {
+      "name": "Klokker\u00f8d",
+      "latitude": 59.29,
+      "longitude": 11.09
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 513,
+    "fields": {
+      "name": "Klommesten",
+      "latitude": 59.43,
+      "longitude": 10.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 514,
+    "fields": {
+      "name": "Klyve",
+      "latitude": 59.15,
+      "longitude": 9.62
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 515,
+    "fields": {
+      "name": "Knardal",
+      "latitude": 59.11,
+      "longitude": 11.39
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 516,
+    "fields": {
+      "name": "Kols\u00e5s",
+      "latitude": 59.91,
+      "longitude": 10.51
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 517,
+    "fields": {
+      "name": "Konglungen",
+      "latitude": 59.84,
+      "longitude": 10.51
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 518,
+    "fields": {
+      "name": "Kongsten",
+      "latitude": 59.2,
+      "longitude": 10.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 519,
+    "fields": {
+      "name": "Konsvikosen",
+      "latitude": 66.5,
+      "longitude": 13.1
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 520,
+    "fields": {
+      "name": "Korp\u00e5sen",
+      "latitude": 59.81,
+      "longitude": 10.44
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 521,
+    "fields": {
+      "name": "Korsvoll",
+      "latitude": 59.96,
+      "longitude": 10.76
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 522,
+    "fields": {
+      "name": "Krana",
+      "latitude": 58.73,
+      "longitude": 9.23
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 523,
+    "fields": {
+      "name": "Krapfoss",
+      "latitude": 59.43,
+      "longitude": 10.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 524,
+    "fields": {
+      "name": "Kringsj\u00e5",
+      "latitude": 59.96,
+      "longitude": 10.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 525,
+    "fields": {
+      "name": "Kringsj\u00e5",
+      "latitude": 60.4,
+      "longitude": 5.28
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 526,
+    "fields": {
+      "name": "Kr\u00f8genes",
+      "latitude": 58.47,
+      "longitude": 8.81
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 527,
+    "fields": {
+      "name": "Krokemoa",
+      "latitude": 59.13,
+      "longitude": 10.17
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 528,
+    "fields": {
+      "name": "Kroken - Bie\u017eav\u00e1ggi",
+      "latitude": 69.68,
+      "longitude": 19.07
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 529,
+    "fields": {
+      "name": "Krokstadelva",
+      "latitude": 59.76,
+      "longitude": 10.01
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 530,
+    "fields": {
+      "name": "Krokstranda",
+      "latitude": 69.69,
+      "longitude": 19.07
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 531,
+    "fields": {
+      "name": "Kronstad",
+      "latitude": 60.37,
+      "longitude": 5.35
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 532,
+    "fields": {
+      "name": "Kronstad",
+      "latitude": 69.96,
+      "longitude": 23.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 533,
+    "fields": {
+      "name": "Krosnes",
+      "latitude": 59.2,
+      "longitude": 10.89
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 534,
+    "fields": {
+      "name": "Krossern",
+      "latitude": 59.44,
+      "longitude": 10.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 535,
+    "fields": {
+      "name": "Krossern",
+      "latitude": 59.44,
+      "longitude": 10.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 536,
+    "fields": {
+      "name": "Kvadraturen",
+      "latitude": 59.91,
+      "longitude": 10.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 537,
+    "fields": {
+      "name": "Kvadraturen",
+      "latitude": 58.15,
+      "longitude": 8.0
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 538,
+    "fields": {
+      "name": "Kv\u00e6rner",
+      "latitude": 59.9,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 539,
+    "fields": {
+      "name": "Kv\u00e6rnerbyen",
+      "latitude": 59.9,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 540,
+    "fields": {
+      "name": "Kval\u00f8ysletta",
+      "latitude": 69.7,
+      "longitude": 18.87
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 541,
+    "fields": {
+      "name": "Kvarstein",
+      "latitude": 58.24,
+      "longitude": 7.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 542,
+    "fields": {
+      "name": "Kvenvik",
+      "latitude": 69.93,
+      "longitude": 23.11
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 543,
+    "fields": {
+      "name": "Kvernavik",
+      "latitude": 58.97,
+      "longitude": 5.6
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 544,
+    "fields": {
+      "name": "Labr\u00e5ten",
+      "latitude": 59.23,
+      "longitude": 10.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 545,
+    "fields": {
+      "name": "L\u00e5by",
+      "latitude": 59.13,
+      "longitude": 11.37
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 546,
+    "fields": {
+      "name": "Lade",
+      "latitude": 63.44,
+      "longitude": 10.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 547,
+    "fields": {
+      "name": "Lahellemoen",
+      "latitude": 59.21,
+      "longitude": 10.96
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 548,
+    "fields": {
+      "name": "Laksev\u00e5g",
+      "latitude": 60.39,
+      "longitude": 5.29
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 549,
+    "fields": {
+      "name": "Lambertseter",
+      "latitude": 59.87,
+      "longitude": 10.81
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 550,
+    "fields": {
+      "name": "Land\u00e5s",
+      "latitude": 60.36,
+      "longitude": 5.37
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 551,
+    "fields": {
+      "name": "Lande",
+      "latitude": 59.3,
+      "longitude": 11.1
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 552,
+    "fields": {
+      "name": "Landvik",
+      "latitude": 58.34,
+      "longitude": 8.52
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 553,
+    "fields": {
+      "name": "Lanes",
+      "latitude": 69.63,
+      "longitude": 18.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 554,
+    "fields": {
+      "name": "Langerud",
+      "latitude": 59.87,
+      "longitude": 10.83
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 555,
+    "fields": {
+      "name": "Langestrand",
+      "latitude": 59.05,
+      "longitude": 10.01
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 556,
+    "fields": {
+      "name": "Lang\u00f8y",
+      "latitude": 59.0,
+      "longitude": 5.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 557,
+    "fields": {
+      "name": "Langs\u00e6",
+      "latitude": 58.47,
+      "longitude": 8.76
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 558,
+    "fields": {
+      "name": "Langstranda",
+      "latitude": 67.27,
+      "longitude": 14.35
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 559,
+    "fields": {
+      "name": "Lasken",
+      "latitude": 59.14,
+      "longitude": 10.19
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 560,
+    "fields": {
+      "name": "Lathari",
+      "latitude": 69.98,
+      "longitude": 23.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 561,
+    "fields": {
+      "name": "Ledaal",
+      "latitude": 58.97,
+      "longitude": 5.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 562,
+    "fields": {
+      "name": "Leie",
+      "latitude": 59.23,
+      "longitude": 10.96
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 563,
+    "fields": {
+      "name": "Leiret",
+      "latitude": 60.88,
+      "longitude": 11.56
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 564,
+    "fields": {
+      "name": "Leirskallen",
+      "latitude": 59.86,
+      "longitude": 10.83
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 565,
+    "fields": {
+      "name": "Lerdalen",
+      "latitude": 59.15,
+      "longitude": 11.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 566,
+    "fields": {
+      "name": "Lierskogen",
+      "latitude": 59.82,
+      "longitude": 10.33
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 567,
+    "fields": {
+      "name": "Lilleaker",
+      "latitude": 59.92,
+      "longitude": 10.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 568,
+    "fields": {
+      "name": "Lilleby",
+      "latitude": 59.21,
+      "longitude": 10.99
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 569,
+    "fields": {
+      "name": "Lille T\u00f8yen",
+      "latitude": 59.92,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 570,
+    "fields": {
+      "name": "Lindeberg",
+      "latitude": 59.93,
+      "longitude": 10.88
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 571,
+    "fields": {
+      "name": "Linderud",
+      "latitude": 59.94,
+      "longitude": 10.83
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 572,
+    "fields": {
+      "name": "Lisleby",
+      "latitude": 59.23,
+      "longitude": 10.98
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 573,
+    "fields": {
+      "name": "Ljabru",
+      "latitude": 59.85,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 574,
+    "fields": {
+      "name": "Ljan",
+      "latitude": 59.85,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 575,
+    "fields": {
+      "name": "Loddefjord",
+      "latitude": 60.36,
+      "longitude": 5.23
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 576,
+    "fields": {
+      "name": "Loesmoen",
+      "latitude": 59.76,
+      "longitude": 9.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 577,
+    "fields": {
+      "name": "Lofsrud",
+      "latitude": 59.84,
+      "longitude": 10.83
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 578,
+    "fields": {
+      "name": "Lofthus",
+      "latitude": 59.95,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 579,
+    "fields": {
+      "name": "Loga",
+      "latitude": 58.33,
+      "longitude": 6.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 580,
+    "fields": {
+      "name": "Lommedalen",
+      "latitude": 59.97,
+      "longitude": 10.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 581,
+    "fields": {
+      "name": "Lomtj\u00f8nn",
+      "latitude": 58.26,
+      "longitude": 7.99
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 582,
+    "fields": {
+      "name": "Lona",
+      "latitude": 58.88,
+      "longitude": 9.4
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 583,
+    "fields": {
+      "name": "Longum",
+      "latitude": 58.51,
+      "longitude": 8.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 584,
+    "fields": {
+      "name": "L\u00f8psmarka",
+      "latitude": 67.31,
+      "longitude": 14.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 585,
+    "fields": {
+      "name": "L\u00f8ren",
+      "latitude": 59.93,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 586,
+    "fields": {
+      "name": "L\u00f8vbergsmoen",
+      "latitude": 60.9,
+      "longitude": 11.6
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 587,
+    "fields": {
+      "name": "Lund",
+      "latitude": 58.15,
+      "longitude": 8.02
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 588,
+    "fields": {
+      "name": "Lunde",
+      "latitude": 58.1,
+      "longitude": 7.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 589,
+    "fields": {
+      "name": "Lunde",
+      "latitude": 59.09,
+      "longitude": 9.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 590,
+    "fields": {
+      "name": "Lundheim",
+      "latitude": 59.21,
+      "longitude": 10.98
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 591,
+    "fields": {
+      "name": "Lunheim",
+      "latitude": 69.67,
+      "longitude": 19.04
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 592,
+    "fields": {
+      "name": "Lura",
+      "latitude": 58.87,
+      "longitude": 5.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 593,
+    "fields": {
+      "name": "Lyngb\u00f8",
+      "latitude": 60.37,
+      "longitude": 5.26
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 594,
+    "fields": {
+      "name": "Lysaker",
+      "latitude": 59.91,
+      "longitude": 10.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 595,
+    "fields": {
+      "name": "Madla",
+      "latitude": 58.95,
+      "longitude": 5.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 596,
+    "fields": {
+      "name": "Majavatn",
+      "latitude": 65.17,
+      "longitude": 13.37
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 597,
+    "fields": {
+      "name": "Majorstuen",
+      "latitude": 59.93,
+      "longitude": 10.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 598,
+    "fields": {
+      "name": "Makrellbekken",
+      "latitude": 59.94,
+      "longitude": 10.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 599,
+    "fields": {
+      "name": "Malakoff",
+      "latitude": 59.43,
+      "longitude": 10.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 600,
+    "fields": {
+      "name": "Malm\u00f8",
+      "latitude": 58.03,
+      "longitude": 7.46
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 601,
+    "fields": {
+      "name": "Manglerud",
+      "latitude": 59.9,
+      "longitude": 10.81
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 602,
+    "fields": {
+      "name": "Mari\u00e5s",
+      "latitude": 59.63,
+      "longitude": 10.39
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 603,
+    "fields": {
+      "name": "Marienlyst",
+      "latitude": 59.93,
+      "longitude": 10.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 604,
+    "fields": {
+      "name": "Mariero",
+      "latitude": 58.94,
+      "longitude": 5.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 605,
+    "fields": {
+      "name": "Mastmoen",
+      "latitude": 60.87,
+      "longitude": 11.58
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 606,
+    "fields": {
+      "name": "Mathopen",
+      "latitude": 60.33,
+      "longitude": 5.22
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 607,
+    "fields": {
+      "name": "Mauseidv\u00e5g",
+      "latitude": 62.42,
+      "longitude": 6.27
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 608,
+    "fields": {
+      "name": "Mell\u00f8s",
+      "latitude": 59.42,
+      "longitude": 10.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 609,
+    "fields": {
+      "name": "Menstad",
+      "latitude": 59.17,
+      "longitude": 9.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 610,
+    "fields": {
+      "name": "Merket",
+      "latitude": 69.31,
+      "longitude": 16.08
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 611,
+    "fields": {
+      "name": "Midtbakken",
+      "latitude": 69.97,
+      "longitude": 23.27
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 612,
+    "fields": {
+      "name": "Midtbyen",
+      "latitude": 63.43,
+      "longitude": 10.39
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 613,
+    "fields": {
+      "name": "Minde",
+      "latitude": 60.36,
+      "longitude": 5.34
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 614,
+    "fields": {
+      "name": "Mineberget",
+      "latitude": 59.2,
+      "longitude": 10.97
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 615,
+    "fields": {
+      "name": "Moen",
+      "latitude": 59.21,
+      "longitude": 11.01
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 616,
+    "fields": {
+      "name": "Moholt",
+      "latitude": 63.41,
+      "longitude": 10.43
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 617,
+    "fields": {
+      "name": "Moksheim",
+      "latitude": 59.36,
+      "longitude": 5.31
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 618,
+    "fields": {
+      "name": "Momarka",
+      "latitude": 63.73,
+      "longitude": 11.28
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 619,
+    "fields": {
+      "name": "Montebello",
+      "latitude": 59.94,
+      "longitude": 10.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 620,
+    "fields": {
+      "name": "M\u00f8rkved",
+      "latitude": 67.29,
+      "longitude": 14.57
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 621,
+    "fields": {
+      "name": "Mortensrud",
+      "latitude": 59.85,
+      "longitude": 10.83
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 622,
+    "fields": {
+      "name": "Moseidmoen",
+      "latitude": 58.27,
+      "longitude": 7.96
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 623,
+    "fields": {
+      "name": "Mosser\u00f8d",
+      "latitude": 59.15,
+      "longitude": 10.21
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 624,
+    "fields": {
+      "name": "Mosseskogen",
+      "latitude": 59.45,
+      "longitude": 10.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 625,
+    "fields": {
+      "name": "Moum",
+      "latitude": 59.25,
+      "longitude": 11.03
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 626,
+    "fields": {
+      "name": "Munkerud",
+      "latitude": 59.86,
+      "longitude": 10.81
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 627,
+    "fields": {
+      "name": "Munkerud",
+      "latitude": 59.86,
+      "longitude": 10.81
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 628,
+    "fields": {
+      "name": "Myra",
+      "latitude": 58.48,
+      "longitude": 8.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 629,
+    "fields": {
+      "name": "Myrene",
+      "latitude": 58.46,
+      "longitude": 8.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 630,
+    "fields": {
+      "name": "Myreng",
+      "latitude": 69.66,
+      "longitude": 18.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 631,
+    "fields": {
+      "name": "Myrvoll",
+      "latitude": 67.29,
+      "longitude": 14.43
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 632,
+    "fields": {
+      "name": "Nabbetorp",
+      "latitude": 59.22,
+      "longitude": 10.97
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 633,
+    "fields": {
+      "name": "Nanset",
+      "latitude": 59.06,
+      "longitude": 10.04
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 634,
+    "fields": {
+      "name": "Nattland",
+      "latitude": 60.35,
+      "longitude": 5.37
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 635,
+    "fields": {
+      "name": "Nedenes",
+      "latitude": 58.41,
+      "longitude": 8.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 636,
+    "fields": {
+      "name": "Nedre Bleiker",
+      "latitude": 59.82,
+      "longitude": 10.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 637,
+    "fields": {
+      "name": "Nedre Hebekk",
+      "latitude": 59.72,
+      "longitude": 10.83
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 638,
+    "fields": {
+      "name": "Nerskogen",
+      "latitude": 69.97,
+      "longitude": 23.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 639,
+    "fields": {
+      "name": "Nesbru",
+      "latitude": 59.87,
+      "longitude": 10.49
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 640,
+    "fields": {
+      "name": "Nesbrygga",
+      "latitude": 59.22,
+      "longitude": 10.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 641,
+    "fields": {
+      "name": "Nes\u00f8ya",
+      "latitude": 59.87,
+      "longitude": 10.53
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 642,
+    "fields": {
+      "name": "N\u00f8kkeland",
+      "latitude": 59.47,
+      "longitude": 10.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 643,
+    "fields": {
+      "name": "Nordberg",
+      "latitude": 59.96,
+      "longitude": 10.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 644,
+    "fields": {
+      "name": "Nordberg",
+      "latitude": 59.26,
+      "longitude": 11.14
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 645,
+    "fields": {
+      "name": "Nordbyen",
+      "latitude": 69.65,
+      "longitude": 18.96
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 646,
+    "fields": {
+      "name": "Nordlandet",
+      "latitude": 63.11,
+      "longitude": 7.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 647,
+    "fields": {
+      "name": "Nordleiret",
+      "latitude": 60.89,
+      "longitude": 11.57
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 648,
+    "fields": {
+      "name": "Nordseter",
+      "latitude": 59.87,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 649,
+    "fields": {
+      "name": "Nordstrand",
+      "latitude": 59.86,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 650,
+    "fields": {
+      "name": "Nordtvet",
+      "latitude": 59.95,
+      "longitude": 10.87
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 651,
+    "fields": {
+      "name": "Norr\u00f8na",
+      "latitude": 69.66,
+      "longitude": 18.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 652,
+    "fields": {
+      "name": "Nustad",
+      "latitude": 59.01,
+      "longitude": 9.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 653,
+    "fields": {
+      "name": "Nybyen",
+      "latitude": 78.2,
+      "longitude": 15.59
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 654,
+    "fields": {
+      "name": "Nydalen",
+      "latitude": 59.95,
+      "longitude": 10.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 655,
+    "fields": {
+      "name": "Nyg\u00e5rd",
+      "latitude": 59.14,
+      "longitude": 10.19
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 656,
+    "fields": {
+      "name": "Nyg\u00e5rd",
+      "latitude": 60.39,
+      "longitude": 5.27
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 657,
+    "fields": {
+      "name": "Nyrud",
+      "latitude": 65.83,
+      "longitude": 13.21
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 658,
+    "fields": {
+      "name": "\u00d8kern",
+      "latitude": 59.93,
+      "longitude": 10.81
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 659,
+    "fields": {
+      "name": "Olderskog",
+      "latitude": 65.82,
+      "longitude": 13.22
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 660,
+    "fields": {
+      "name": "Olsg\u00e5rd",
+      "latitude": 69.67,
+      "longitude": 18.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 661,
+    "fields": {
+      "name": "Olsr\u00f8d",
+      "latitude": 59.28,
+      "longitude": 10.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 662,
+    "fields": {
+      "name": "Olsvik",
+      "latitude": 60.38,
+      "longitude": 5.22
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 663,
+    "fields": {
+      "name": "Oppsal",
+      "latitude": 59.89,
+      "longitude": 10.84
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 664,
+    "fields": {
+      "name": "Opsund",
+      "latitude": 59.29,
+      "longitude": 11.13
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 665,
+    "fields": {
+      "name": "Opsund",
+      "latitude": 59.29,
+      "longitude": 11.13
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 666,
+    "fields": {
+      "name": "\u00d8raker",
+      "latitude": 59.93,
+      "longitude": 10.63
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 667,
+    "fields": {
+      "name": "\u00d8re",
+      "latitude": 59.42,
+      "longitude": 10.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 668,
+    "fields": {
+      "name": "\u00d8re\u00e5sen",
+      "latitude": 59.42,
+      "longitude": 10.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 669,
+    "fields": {
+      "name": "\u00d8rebekk",
+      "latitude": 59.23,
+      "longitude": 10.91
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 670,
+    "fields": {
+      "name": "\u00d8rehavna",
+      "latitude": 59.43,
+      "longitude": 10.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 671,
+    "fields": {
+      "name": "\u00d8rejordet",
+      "latitude": 59.43,
+      "longitude": 10.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 672,
+    "fields": {
+      "name": "Orker\u00f8d",
+      "latitude": 59.44,
+      "longitude": 10.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 673,
+    "fields": {
+      "name": "Orm\u00e5sen",
+      "latitude": 59.76,
+      "longitude": 9.83
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 674,
+    "fields": {
+      "name": "Orm\u00f8y",
+      "latitude": 58.99,
+      "longitude": 5.76
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 675,
+    "fields": {
+      "name": "\u00d8rndalen",
+      "latitude": 69.71,
+      "longitude": 19.01
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 676,
+    "fields": {
+      "name": "\u00d8stbyen",
+      "latitude": 63.43,
+      "longitude": 10.46
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 677,
+    "fields": {
+      "name": "\u00d8sterhus",
+      "latitude": 58.32,
+      "longitude": 8.55
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 678,
+    "fields": {
+      "name": "\u00d8stre bydel",
+      "latitude": 59.28,
+      "longitude": 11.12
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 679,
+    "fields": {
+      "name": "\u00d8stre Halsen",
+      "latitude": 59.04,
+      "longitude": 10.06
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 680,
+    "fields": {
+      "name": "Othilienborg",
+      "latitude": 63.41,
+      "longitude": 10.43
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 681,
+    "fields": {
+      "name": "\u00d8verland",
+      "latitude": 59.88,
+      "longitude": 8.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 682,
+    "fields": {
+      "name": "\u00d8verleiret",
+      "latitude": 60.89,
+      "longitude": 11.58
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 683,
+    "fields": {
+      "name": "\u00d8vrebyen",
+      "latitude": 58.03,
+      "longitude": 7.46
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 684,
+    "fields": {
+      "name": "\u00d8vre Hebekk",
+      "latitude": 59.72,
+      "longitude": 10.82
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 685,
+    "fields": {
+      "name": "\u00d8vre R\u00e6lingen",
+      "latitude": 59.95,
+      "longitude": 11.04
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 686,
+    "fields": {
+      "name": "\u00d8vre Svelvik",
+      "latitude": 59.62,
+      "longitude": 10.41
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 687,
+    "fields": {
+      "name": "\u00d8yekastet",
+      "latitude": 59.13,
+      "longitude": 9.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 688,
+    "fields": {
+      "name": "\u00d8ygarden",
+      "latitude": 58.08,
+      "longitude": 7.86
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 689,
+    "fields": {
+      "name": "Palmafossen",
+      "latitude": 60.64,
+      "longitude": 6.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 690,
+    "fields": {
+      "name": "Paradis",
+      "latitude": 60.34,
+      "longitude": 5.35
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 691,
+    "fields": {
+      "name": "Pettersand",
+      "latitude": 59.24,
+      "longitude": 10.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 692,
+    "fields": {
+      "name": "Pr\u00e6rien",
+      "latitude": 64.47,
+      "longitude": 11.48
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 693,
+    "fields": {
+      "name": "Prester\u00f8d",
+      "latitude": 59.27,
+      "longitude": 10.44
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 694,
+    "fields": {
+      "name": "Prinsdal",
+      "latitude": 59.83,
+      "longitude": 10.81
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 695,
+    "fields": {
+      "name": "Pusnes",
+      "latitude": 58.46,
+      "longitude": 8.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 696,
+    "fields": {
+      "name": "R\u00e5el",
+      "latitude": 59.27,
+      "longitude": 10.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 697,
+    "fields": {
+      "name": "Rafsbotn",
+      "latitude": 70.02,
+      "longitude": 23.53
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 698,
+    "fields": {
+      "name": "Ranheim",
+      "latitude": 63.43,
+      "longitude": 10.54
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 699,
+    "fields": {
+      "name": "Rasta",
+      "latitude": 59.92,
+      "longitude": 10.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 700,
+    "fields": {
+      "name": "Rauli",
+      "latitude": 58.29,
+      "longitude": 6.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 701,
+    "fields": {
+      "name": "Refne",
+      "latitude": 59.12,
+      "longitude": 11.36
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 702,
+    "fields": {
+      "name": "Refsnes",
+      "latitude": 59.45,
+      "longitude": 10.61
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 703,
+    "fields": {
+      "name": "Refstad",
+      "latitude": 59.94,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 704,
+    "fields": {
+      "name": "Reier",
+      "latitude": 59.43,
+      "longitude": 10.63
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 705,
+    "fields": {
+      "name": "Reinen",
+      "latitude": 69.63,
+      "longitude": 18.96
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 706,
+    "fields": {
+      "name": "Reistad",
+      "latitude": 59.78,
+      "longitude": 10.29
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 707,
+    "fields": {
+      "name": "Rekkevik",
+      "latitude": 59.03,
+      "longitude": 10.08
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 708,
+    "fields": {
+      "name": "Rekustad",
+      "latitude": 59.27,
+      "longitude": 11.0
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 709,
+    "fields": {
+      "name": "Remmen",
+      "latitude": 59.13,
+      "longitude": 11.35
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 710,
+    "fields": {
+      "name": "Ringshaug",
+      "latitude": 59.28,
+      "longitude": 10.49
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 711,
+    "fields": {
+      "name": "Ris",
+      "latitude": 59.95,
+      "longitude": 10.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 712,
+    "fields": {
+      "name": "Risenga",
+      "latitude": 59.83,
+      "longitude": 10.44
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 713,
+    "fields": {
+      "name": "Risl\u00f8kka",
+      "latitude": 59.94,
+      "longitude": 10.82
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 714,
+    "fields": {
+      "name": "R\u00f8a",
+      "latitude": 59.95,
+      "longitude": 10.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 715,
+    "fields": {
+      "name": "R\u00f8d",
+      "latitude": 59.2,
+      "longitude": 10.88
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 716,
+    "fields": {
+      "name": "Rodel\u00f8kka",
+      "latitude": 59.92,
+      "longitude": 10.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 717,
+    "fields": {
+      "name": "R\u00f8dtvet",
+      "latitude": 59.95,
+      "longitude": 10.86
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 718,
+    "fields": {
+      "name": "Rognerud",
+      "latitude": 59.9,
+      "longitude": 10.82
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 719,
+    "fields": {
+      "name": "Rokke",
+      "latitude": 59.19,
+      "longitude": 11.34
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 720,
+    "fields": {
+      "name": "Rolvs\u00f8y",
+      "latitude": 59.26,
+      "longitude": 11.0
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 721,
+    "fields": {
+      "name": "Rommen",
+      "latitude": 59.96,
+      "longitude": 10.91
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 722,
+    "fields": {
+      "name": "Roms\u00e5s",
+      "latitude": 59.97,
+      "longitude": 10.9
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 723,
+    "fields": {
+      "name": "R\u00f8nnes",
+      "latitude": 58.34,
+      "longitude": 8.61
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 724,
+    "fields": {
+      "name": "Roresand",
+      "latitude": 58.35,
+      "longitude": 8.54
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 725,
+    "fields": {
+      "name": "R\u00f8rvik",
+      "latitude": 58.86,
+      "longitude": 9.39
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 726,
+    "fields": {
+      "name": "Rosenhoff",
+      "latitude": 59.93,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 727,
+    "fields": {
+      "name": "Rosenholm",
+      "latitude": 59.82,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 728,
+    "fields": {
+      "name": "Rossab\u00f8",
+      "latitude": 59.39,
+      "longitude": 5.3
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 729,
+    "fields": {
+      "name": "Rove",
+      "latitude": 59.49,
+      "longitude": 10.3
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 730,
+    "fields": {
+      "name": "R\u00f8yk\u00e5s",
+      "latitude": 59.92,
+      "longitude": 10.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 731,
+    "fields": {
+      "name": "R\u00f8yneberg",
+      "latitude": 58.91,
+      "longitude": 5.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 732,
+    "fields": {
+      "name": "Rugtvedtmyra",
+      "latitude": 59.04,
+      "longitude": 9.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 733,
+    "fields": {
+      "name": "Russeluft",
+      "latitude": 70.02,
+      "longitude": 23.36
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 734,
+    "fields": {
+      "name": "Rustad",
+      "latitude": 59.87,
+      "longitude": 10.85
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 735,
+    "fields": {
+      "name": "Ryen",
+      "latitude": 59.9,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 736,
+    "fields": {
+      "name": "S\u00e6ter",
+      "latitude": 59.86,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 737,
+    "fields": {
+      "name": "Saga",
+      "latitude": 69.96,
+      "longitude": 23.42
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 738,
+    "fields": {
+      "name": "Sagene",
+      "latitude": 59.94,
+      "longitude": 10.76
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 739,
+    "fields": {
+      "name": "Sandaker",
+      "latitude": 59.94,
+      "longitude": 10.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 740,
+    "fields": {
+      "name": "Sandal",
+      "latitude": 58.96,
+      "longitude": 5.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 741,
+    "fields": {
+      "name": "Sandbakken",
+      "latitude": 59.25,
+      "longitude": 11.19
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 742,
+    "fields": {
+      "name": "Sanden",
+      "latitude": 59.05,
+      "longitude": 10.02
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 743,
+    "fields": {
+      "name": "Sanden",
+      "latitude": 58.02,
+      "longitude": 7.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 744,
+    "fields": {
+      "name": "Sandesund",
+      "latitude": 59.27,
+      "longitude": 11.1
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 745,
+    "fields": {
+      "name": "Sandsli",
+      "latitude": 60.29,
+      "longitude": 5.28
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 746,
+    "fields": {
+      "name": "Sandved",
+      "latitude": 58.84,
+      "longitude": 5.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 747,
+    "fields": {
+      "name": "Sandviga",
+      "latitude": 58.44,
+      "longitude": 8.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 748,
+    "fields": {
+      "name": "Sankthanshaugen",
+      "latitude": 59.93,
+      "longitude": 10.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 749,
+    "fields": {
+      "name": "Sannan",
+      "latitude": 64.01,
+      "longitude": 11.5
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 750,
+    "fields": {
+      "name": "S\u00e5num",
+      "latitude": 58.02,
+      "longitude": 7.41
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 751,
+    "fields": {
+      "name": "Schultzedalen",
+      "latitude": 59.13,
+      "longitude": 11.39
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 752,
+    "fields": {
+      "name": "Seiersten",
+      "latitude": 59.67,
+      "longitude": 10.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 753,
+    "fields": {
+      "name": "Selfors",
+      "latitude": 66.33,
+      "longitude": 14.18
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 754,
+    "fields": {
+      "name": "Sem",
+      "latitude": 59.85,
+      "longitude": 10.43
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 755,
+    "fields": {
+      "name": "Sentrum",
+      "latitude": 58.03,
+      "longitude": 7.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 756,
+    "fields": {
+      "name": "Simensbr\u00e5ten",
+      "latitude": 59.9,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 757,
+    "fields": {
+      "name": "Sinsen",
+      "latitude": 59.93,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 758,
+    "fields": {
+      "name": "Sj\u00f8lyst",
+      "latitude": 59.92,
+      "longitude": 10.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 759,
+    "fields": {
+      "name": "Sj\u00f8mannsbyen",
+      "latitude": 69.68,
+      "longitude": 18.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 760,
+    "fields": {
+      "name": "Skajaluft",
+      "latitude": 69.97,
+      "longitude": 23.25
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 761,
+    "fields": {
+      "name": "Skallestad",
+      "latitude": 59.21,
+      "longitude": 10.44
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 762,
+    "fields": {
+      "name": "Skallevold",
+      "latitude": 59.29,
+      "longitude": 10.5
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 763,
+    "fields": {
+      "name": "Skarmyra",
+      "latitude": 59.43,
+      "longitude": 10.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 764,
+    "fields": {
+      "name": "Skarpsno",
+      "latitude": 59.92,
+      "longitude": 10.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 765,
+    "fields": {
+      "name": "Skatt\u00f8ra",
+      "latitude": 69.7,
+      "longitude": 19.02
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 766,
+    "fields": {
+      "name": "Skeiene",
+      "latitude": 58.84,
+      "longitude": 5.71
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 767,
+    "fields": {
+      "name": "Skillebekk",
+      "latitude": 59.91,
+      "longitude": 10.71
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 768,
+    "fields": {
+      "name": "Skillebekk",
+      "latitude": 59.98,
+      "longitude": 10.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 769,
+    "fields": {
+      "name": "Skinnsnes",
+      "latitude": 58.03,
+      "longitude": 7.48
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 770,
+    "fields": {
+      "name": "Skivika",
+      "latitude": 67.31,
+      "longitude": 14.44
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 771,
+    "fields": {
+      "name": "Skjebstad",
+      "latitude": 58.03,
+      "longitude": 7.42
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 772,
+    "fields": {
+      "name": "Skjelnan",
+      "latitude": 69.7,
+      "longitude": 19.08
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 773,
+    "fields": {
+      "name": "Skogen",
+      "latitude": 59.58,
+      "longitude": 9.27
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 774,
+    "fields": {
+      "name": "Sk\u00f8yen",
+      "latitude": 59.92,
+      "longitude": 10.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 775,
+    "fields": {
+      "name": "Sk\u00f8yen\u00e5sen",
+      "latitude": 59.9,
+      "longitude": 10.84
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 776,
+    "fields": {
+      "name": "Skredder\u00e5sen",
+      "latitude": 59.46,
+      "longitude": 10.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 777,
+    "fields": {
+      "name": "Skui",
+      "latitude": 59.93,
+      "longitude": 10.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 778,
+    "fields": {
+      "name": "Skulestadmoen",
+      "latitude": 60.66,
+      "longitude": 6.44
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 779,
+    "fields": {
+      "name": "Skullerud",
+      "latitude": 59.86,
+      "longitude": 10.84
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 780,
+    "fields": {
+      "name": "Skuteviken",
+      "latitude": 60.4,
+      "longitude": 5.32
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 781,
+    "fields": {
+      "name": "Slemdal",
+      "latitude": 59.95,
+      "longitude": 10.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 782,
+    "fields": {
+      "name": "Slependen",
+      "latitude": 59.88,
+      "longitude": 10.5
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 783,
+    "fields": {
+      "name": "Slettaelva",
+      "latitude": 69.7,
+      "longitude": 18.89
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 784,
+    "fields": {
+      "name": "Slettebakken",
+      "latitude": 60.36,
+      "longitude": 5.36
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 785,
+    "fields": {
+      "name": "Slettheia",
+      "latitude": 58.14,
+      "longitude": 7.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 786,
+    "fields": {
+      "name": "Smedstua",
+      "latitude": 59.95,
+      "longitude": 10.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 787,
+    "fields": {
+      "name": "Smertu",
+      "latitude": 59.2,
+      "longitude": 10.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 788,
+    "fields": {
+      "name": "Smestad",
+      "latitude": 59.94,
+      "longitude": 10.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 789,
+    "fields": {
+      "name": "Snar\u00f8ya",
+      "latitude": 59.88,
+      "longitude": 10.61
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 790,
+    "fields": {
+      "name": "S\u00f8bakken",
+      "latitude": 60.9,
+      "longitude": 11.56
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 791,
+    "fields": {
+      "name": "Sofienberg",
+      "latitude": 59.92,
+      "longitude": 10.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 792,
+    "fields": {
+      "name": "Sogn",
+      "latitude": 59.95,
+      "longitude": 10.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 793,
+    "fields": {
+      "name": "Sogsti",
+      "latitude": 59.66,
+      "longitude": 10.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 794,
+    "fields": {
+      "name": "Solberg",
+      "latitude": 59.72,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 795,
+    "fields": {
+      "name": "Solbergelva",
+      "latitude": 59.77,
+      "longitude": 10.07
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 796,
+    "fields": {
+      "name": "Solbergmoen",
+      "latitude": 59.76,
+      "longitude": 10.05
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 797,
+    "fields": {
+      "name": "Solborg",
+      "latitude": 59.72,
+      "longitude": 10.86
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 798,
+    "fields": {
+      "name": "Solheim",
+      "latitude": 60.37,
+      "longitude": 5.34
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 799,
+    "fields": {
+      "name": "Sollerud",
+      "latitude": 59.92,
+      "longitude": 10.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 800,
+    "fields": {
+      "name": "Sollig\u00e5rden",
+      "latitude": 69.61,
+      "longitude": 18.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 801,
+    "fields": {
+      "name": "S\u00f8lyst",
+      "latitude": 58.98,
+      "longitude": 5.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 802,
+    "fields": {
+      "name": "S\u00f8m",
+      "latitude": 58.15,
+      "longitude": 8.06
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 803,
+    "fields": {
+      "name": "Soma",
+      "latitude": 58.86,
+      "longitude": 5.71
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 804,
+    "fields": {
+      "name": "S\u00f8ndre Egge",
+      "latitude": 64.02,
+      "longitude": 11.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 805,
+    "fields": {
+      "name": "Songe",
+      "latitude": 58.47,
+      "longitude": 8.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 806,
+    "fields": {
+      "name": "S\u00f8r-Arn\u00f8y",
+      "latitude": 67.14,
+      "longitude": 13.97
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 807,
+    "fields": {
+      "name": "S\u00f8rbyen",
+      "latitude": 69.65,
+      "longitude": 18.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 808,
+    "fields": {
+      "name": "S\u00f8renga",
+      "latitude": 59.9,
+      "longitude": 10.76
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 809,
+    "fields": {
+      "name": "S\u00f8rfjorden",
+      "latitude": 66.49,
+      "longitude": 13.29
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 810,
+    "fields": {
+      "name": "Sorgenfri",
+      "latitude": 69.64,
+      "longitude": 18.9
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 811,
+    "fields": {
+      "name": "S\u00f8vig",
+      "latitude": 58.07,
+      "longitude": 7.86
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 812,
+    "fields": {
+      "name": "S\u00f8yland",
+      "latitude": 58.3,
+      "longitude": 6.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 813,
+    "fields": {
+      "name": "Sperling",
+      "latitude": 59.22,
+      "longitude": 11.01
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 814,
+    "fields": {
+      "name": "Spjelkavik",
+      "latitude": 62.46,
+      "longitude": 6.36
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 815,
+    "fields": {
+      "name": "Stabekk",
+      "latitude": 59.91,
+      "longitude": 10.6
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 816,
+    "fields": {
+      "name": "Stakkevollan",
+      "latitude": 69.69,
+      "longitude": 19.0
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 817,
+    "fields": {
+      "name": "Stalheim",
+      "latitude": 69.66,
+      "longitude": 18.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 818,
+    "fields": {
+      "name": "Stangeland",
+      "latitude": 58.85,
+      "longitude": 5.71
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 819,
+    "fields": {
+      "name": "Stangel\u00f8kka",
+      "latitude": 59.13,
+      "longitude": 11.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 820,
+    "fields": {
+      "name": "Steinvika",
+      "latitude": 64.02,
+      "longitude": 11.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 821,
+    "fields": {
+      "name": "Stoa",
+      "latitude": 58.46,
+      "longitude": 8.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 822,
+    "fields": {
+      "name": "Stokka",
+      "latitude": 58.89,
+      "longitude": 5.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 823,
+    "fields": {
+      "name": "Stokka",
+      "latitude": 58.96,
+      "longitude": 5.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 824,
+    "fields": {
+      "name": "St\u00f8kkan",
+      "latitude": 58.03,
+      "longitude": 7.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 825,
+    "fields": {
+      "name": "St\u00f8le",
+      "latitude": 58.3,
+      "longitude": 8.54
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 826,
+    "fields": {
+      "name": "Storelv",
+      "latitude": 69.69,
+      "longitude": 18.81
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 827,
+    "fields": {
+      "name": "Storhaug",
+      "latitude": 58.97,
+      "longitude": 5.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 828,
+    "fields": {
+      "name": "Storo",
+      "latitude": 59.95,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 829,
+    "fields": {
+      "name": "Storskogen",
+      "latitude": 69.67,
+      "longitude": 18.96
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 830,
+    "fields": {
+      "name": "Stovner",
+      "latitude": 59.96,
+      "longitude": 10.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 831,
+    "fields": {
+      "name": "Strai",
+      "latitude": 58.19,
+      "longitude": 7.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 832,
+    "fields": {
+      "name": "Strand",
+      "latitude": 68.7,
+      "longitude": 15.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 833,
+    "fields": {
+      "name": "Straume",
+      "latitude": 60.36,
+      "longitude": 5.12
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 834,
+    "fields": {
+      "name": "Stridsklev",
+      "latitude": 59.11,
+      "longitude": 9.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 835,
+    "fields": {
+      "name": "Strinda",
+      "latitude": 63.41,
+      "longitude": 10.45
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 836,
+    "fields": {
+      "name": "Str\u00f8mmen",
+      "latitude": 58.45,
+      "longitude": 8.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 837,
+    "fields": {
+      "name": "Str\u00f8msbu",
+      "latitude": 58.46,
+      "longitude": 8.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 838,
+    "fields": {
+      "name": "Str\u00f8ms\u00f8",
+      "latitude": 59.74,
+      "longitude": 10.21
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 839,
+    "fields": {
+      "name": "Strupe",
+      "latitude": 59.14,
+      "longitude": 11.37
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 840,
+    "fields": {
+      "name": "Stubberud",
+      "latitude": 59.93,
+      "longitude": 10.86
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 841,
+    "fields": {
+      "name": "Sundby",
+      "latitude": 59.02,
+      "longitude": 9.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 842,
+    "fields": {
+      "name": "Sundjordet",
+      "latitude": 59.13,
+      "longitude": 9.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 843,
+    "fields": {
+      "name": "Sveiga",
+      "latitude": 58.29,
+      "longitude": 6.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 844,
+    "fields": {
+      "name": "Sverstad",
+      "latitude": 59.61,
+      "longitude": 10.4
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 845,
+    "fields": {
+      "name": "Sydspissen",
+      "latitude": 69.63,
+      "longitude": 18.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 846,
+    "fields": {
+      "name": "Tagtvet",
+      "latitude": 59.06,
+      "longitude": 10.06
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 847,
+    "fields": {
+      "name": "Tananger",
+      "latitude": 58.94,
+      "longitude": 5.59
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 848,
+    "fields": {
+      "name": "Tandbergl\u00f8kka",
+      "latitude": 59.7,
+      "longitude": 10.85
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 849,
+    "fields": {
+      "name": "Tande",
+      "latitude": 59.05,
+      "longitude": 9.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 850,
+    "fields": {
+      "name": "Tangen",
+      "latitude": 59.73,
+      "longitude": 10.24
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 851,
+    "fields": {
+      "name": "Tangen",
+      "latitude": 58.72,
+      "longitude": 9.24
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 852,
+    "fields": {
+      "name": "Taraldsvik",
+      "latitude": 68.45,
+      "longitude": 17.44
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 853,
+    "fields": {
+      "name": "T\u00e5rn\u00e5sen",
+      "latitude": 59.82,
+      "longitude": 10.82
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 854,
+    "fields": {
+      "name": "T\u00e5sen",
+      "latitude": 59.95,
+      "longitude": 10.75
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 855,
+    "fields": {
+      "name": "Tasta",
+      "latitude": 58.98,
+      "longitude": 5.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 856,
+    "fields": {
+      "name": "Teie",
+      "latitude": 59.25,
+      "longitude": 10.42
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 857,
+    "fields": {
+      "name": "Teisen",
+      "latitude": 59.91,
+      "longitude": 10.82
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 858,
+    "fields": {
+      "name": "Tertnes",
+      "latitude": 60.46,
+      "longitude": 5.28
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 859,
+    "fields": {
+      "name": "Tiller",
+      "latitude": 63.36,
+      "longitude": 10.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 860,
+    "fields": {
+      "name": "Tinnes",
+      "latitude": 59.56,
+      "longitude": 9.24
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 861,
+    "fields": {
+      "name": "Tinnheia",
+      "latitude": 58.15,
+      "longitude": 7.96
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 862,
+    "fields": {
+      "name": "Tistedal",
+      "latitude": 59.13,
+      "longitude": 11.44
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 863,
+    "fields": {
+      "name": "Tjensvoll",
+      "latitude": 58.95,
+      "longitude": 5.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 864,
+    "fields": {
+      "name": "Tj\u00f8rsv\u00e5g",
+      "latitude": 58.3,
+      "longitude": 6.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 865,
+    "fields": {
+      "name": "Tjuvholmen",
+      "latitude": 59.91,
+      "longitude": 10.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 866,
+    "fields": {
+      "name": "Toften",
+      "latitude": 69.3,
+      "longitude": 16.05
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 867,
+    "fields": {
+      "name": "Tokerud",
+      "latitude": 59.97,
+      "longitude": 10.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 868,
+    "fields": {
+      "name": "Tollnes",
+      "latitude": 59.16,
+      "longitude": 9.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 869,
+    "fields": {
+      "name": "Tolvsr\u00f8d",
+      "latitude": 59.27,
+      "longitude": 10.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 870,
+    "fields": {
+      "name": "Tomasjord",
+      "latitude": 69.66,
+      "longitude": 19.02
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 871,
+    "fields": {
+      "name": "Tomasjordnes",
+      "latitude": 69.67,
+      "longitude": 19.02
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 872,
+    "fields": {
+      "name": "Tonsen",
+      "latitude": 59.94,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 873,
+    "fields": {
+      "name": "Tonsenhagen",
+      "latitude": 59.95,
+      "longitude": 10.83
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 874,
+    "fields": {
+      "name": "Torsbudalen",
+      "latitude": 58.48,
+      "longitude": 8.76
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 875,
+    "fields": {
+      "name": "Torshov",
+      "latitude": 59.94,
+      "longitude": 10.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 876,
+    "fields": {
+      "name": "Torstrand",
+      "latitude": 59.05,
+      "longitude": 10.05
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 877,
+    "fields": {
+      "name": "T\u00f8yen",
+      "latitude": 59.92,
+      "longitude": 10.77
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 878,
+    "fields": {
+      "name": "Tr\u00e6leborg",
+      "latitude": 59.27,
+      "longitude": 10.42
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 879,
+    "fields": {
+      "name": "Transfarelv",
+      "latitude": 69.99,
+      "longitude": 23.49
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 880,
+    "fields": {
+      "name": "Trara",
+      "latitude": 59.22,
+      "longitude": 10.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 881,
+    "fields": {
+      "name": "Trasopp",
+      "latitude": 59.91,
+      "longitude": 10.85
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 882,
+    "fields": {
+      "name": "Troll\u00e5sen",
+      "latitude": 59.82,
+      "longitude": 10.78
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 883,
+    "fields": {
+      "name": "Trolldalen",
+      "latitude": 59.45,
+      "longitude": 10.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 884,
+    "fields": {
+      "name": "Tromsdalen - S\u00e1la\u0161v\u00e1ggi",
+      "latitude": 69.65,
+      "longitude": 18.99
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 885,
+    "fields": {
+      "name": "Tronb\u00f8l",
+      "latitude": 60.25,
+      "longitude": 11.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 886,
+    "fields": {
+      "name": "Trones",
+      "latitude": 58.86,
+      "longitude": 5.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 887,
+    "fields": {
+      "name": "Tronvik",
+      "latitude": 59.44,
+      "longitude": 10.61
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 888,
+    "fields": {
+      "name": "Trosterud",
+      "latitude": 59.93,
+      "longitude": 10.87
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 889,
+    "fields": {
+      "name": "Trosvik",
+      "latitude": 59.23,
+      "longitude": 10.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 890,
+    "fields": {
+      "name": "Tuven",
+      "latitude": 59.57,
+      "longitude": 9.22
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 891,
+    "fields": {
+      "name": "Tveita",
+      "latitude": 59.91,
+      "longitude": 10.84
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 892,
+    "fields": {
+      "name": "Tveiten",
+      "latitude": 59.4,
+      "longitude": 10.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 893,
+    "fields": {
+      "name": "Tveiten",
+      "latitude": 59.55,
+      "longitude": 9.28
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 894,
+    "fields": {
+      "name": "Tveito",
+      "latitude": 59.88,
+      "longitude": 8.63
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 895,
+    "fields": {
+      "name": "Tyholt",
+      "latitude": 63.42,
+      "longitude": 10.43
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 896,
+    "fields": {
+      "name": "Uenes",
+      "latitude": 58.3,
+      "longitude": 6.67
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 897,
+    "fields": {
+      "name": "Ugla",
+      "latitude": 63.4,
+      "longitude": 10.33
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 898,
+    "fields": {
+      "name": "Ullandhaug",
+      "latitude": 58.94,
+      "longitude": 5.71
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 899,
+    "fields": {
+      "name": "Ullern",
+      "latitude": 59.93,
+      "longitude": 10.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 900,
+    "fields": {
+      "name": "Ullern\u00e5sen",
+      "latitude": 59.93,
+      "longitude": 10.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 901,
+    "fields": {
+      "name": "Ullev\u00e5l",
+      "latitude": 59.94,
+      "longitude": 10.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 902,
+    "fields": {
+      "name": "Ulset",
+      "latitude": 60.46,
+      "longitude": 5.31
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 903,
+    "fields": {
+      "name": "Ulsrud",
+      "latitude": 59.89,
+      "longitude": 10.85
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 904,
+    "fields": {
+      "name": "Ulven",
+      "latitude": 59.92,
+      "longitude": 10.81
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 905,
+    "fields": {
+      "name": "Uranienborg",
+      "latitude": 59.92,
+      "longitude": 10.72
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 906,
+    "fields": {
+      "name": "Vadmyra",
+      "latitude": 60.36,
+      "longitude": 5.23
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 907,
+    "fields": {
+      "name": "V\u00e6ker\u00f8",
+      "latitude": 59.92,
+      "longitude": 10.66
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 908,
+    "fields": {
+      "name": "V\u00e5gaholmen",
+      "latitude": 66.71,
+      "longitude": 13.29
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 909,
+    "fields": {
+      "name": "V\u00e5gsbygd",
+      "latitude": 58.12,
+      "longitude": 7.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 910,
+    "fields": {
+      "name": "Vak\u00e5s",
+      "latitude": 59.85,
+      "longitude": 10.46
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 911,
+    "fields": {
+      "name": "V\u00e5land",
+      "latitude": 58.96,
+      "longitude": 5.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 912,
+    "fields": {
+      "name": "Valaskjold",
+      "latitude": 59.29,
+      "longitude": 11.1
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 913,
+    "fields": {
+      "name": "V\u00e5lerenga",
+      "latitude": 59.91,
+      "longitude": 10.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 914,
+    "fields": {
+      "name": "Valle",
+      "latitude": 59.92,
+      "longitude": 10.8
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 915,
+    "fields": {
+      "name": "Vallermyrene",
+      "latitude": 59.13,
+      "longitude": 9.69
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 916,
+    "fields": {
+      "name": "Vallerud",
+      "latitude": 59.92,
+      "longitude": 10.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 917,
+    "fields": {
+      "name": "Vangberg",
+      "latitude": 69.65,
+      "longitude": 18.9
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 918,
+    "fields": {
+      "name": "Vard\u00e5sen",
+      "latitude": 59.82,
+      "longitude": 10.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 919,
+    "fields": {
+      "name": "Vardeneset",
+      "latitude": 59.0,
+      "longitude": 5.68
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 920,
+    "fields": {
+      "name": "Vass\u00f8y",
+      "latitude": 59.0,
+      "longitude": 5.79
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 921,
+    "fields": {
+      "name": "Vaterland",
+      "latitude": 59.2,
+      "longitude": 10.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 922,
+    "fields": {
+      "name": "Vaulen",
+      "latitude": 58.93,
+      "longitude": 5.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 923,
+    "fields": {
+      "name": "Vaulen",
+      "latitude": 58.93,
+      "longitude": 5.74
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 924,
+    "fields": {
+      "name": "Vear",
+      "latitude": 59.26,
+      "longitude": 10.36
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 925,
+    "fields": {
+      "name": "Veitvet",
+      "latitude": 59.94,
+      "longitude": 10.85
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 926,
+    "fields": {
+      "name": "Veldre",
+      "latitude": 59.05,
+      "longitude": 10.0
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 927,
+    "fields": {
+      "name": "Vestad",
+      "latitude": 60.88,
+      "longitude": 11.54
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 928,
+    "fields": {
+      "name": "Vesteng",
+      "latitude": 59.28,
+      "longitude": 11.09
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 929,
+    "fields": {
+      "name": "Vesterlia",
+      "latitude": 69.64,
+      "longitude": 18.92
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 930,
+    "fields": {
+      "name": "Vestli",
+      "latitude": 59.97,
+      "longitude": 10.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 931,
+    "fields": {
+      "name": "Vestmarka",
+      "latitude": 59.88,
+      "longitude": 10.38
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 932,
+    "fields": {
+      "name": "Vestnes",
+      "latitude": 58.03,
+      "longitude": 7.44
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 933,
+    "fields": {
+      "name": "Vestre R\u00f8d",
+      "latitude": 59.12,
+      "longitude": 10.24
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 934,
+    "fields": {
+      "name": "Vestsiden",
+      "latitude": 59.14,
+      "longitude": 9.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 935,
+    "fields": {
+      "name": "Vestskogen",
+      "latitude": 59.24,
+      "longitude": 10.4
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 936,
+    "fields": {
+      "name": "Vettakollen",
+      "latitude": 59.96,
+      "longitude": 10.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 937,
+    "fields": {
+      "name": "Vettre",
+      "latitude": 59.82,
+      "longitude": 10.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 938,
+    "fields": {
+      "name": "Viddefjell",
+      "latitude": 58.71,
+      "longitude": 9.21
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 939,
+    "fields": {
+      "name": "Vigeland",
+      "latitude": 58.25,
+      "longitude": 7.96
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 940,
+    "fields": {
+      "name": "Vik",
+      "latitude": 58.37,
+      "longitude": 8.62
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 941,
+    "fields": {
+      "name": "Vika",
+      "latitude": 64.47,
+      "longitude": 11.49
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 942,
+    "fields": {
+      "name": "Vika",
+      "latitude": 59.91,
+      "longitude": 10.73
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 943,
+    "fields": {
+      "name": "Vinderen",
+      "latitude": 59.94,
+      "longitude": 10.71
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 944,
+    "fields": {
+      "name": "Vingnes",
+      "latitude": 61.11,
+      "longitude": 10.44
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 945,
+    "fields": {
+      "name": "Vinnes",
+      "latitude": 59.76,
+      "longitude": 10.11
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 946,
+    "fields": {
+      "name": "Visperud",
+      "latitude": 59.93,
+      "longitude": 10.94
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 947,
+    "fields": {
+      "name": "Viste Hageby",
+      "latitude": 58.98,
+      "longitude": 5.61
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 948,
+    "fields": {
+      "name": "Vistnes",
+      "latitude": 58.99,
+      "longitude": 5.57
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 949,
+    "fields": {
+      "name": "Voiebyen",
+      "latitude": 58.11,
+      "longitude": 7.95
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 950,
+    "fields": {
+      "name": "Voksen",
+      "latitude": 59.96,
+      "longitude": 10.64
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 951,
+    "fields": {
+      "name": "Voksenlia",
+      "latitude": 59.97,
+      "longitude": 10.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 952,
+    "fields": {
+      "name": "Voksen skog",
+      "latitude": 59.98,
+      "longitude": 10.65
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 953,
+    "fields": {
+      "name": "Voll",
+      "latitude": 59.93,
+      "longitude": 10.62
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 954,
+    "fields": {
+      "name": "Vollebekk",
+      "latitude": 59.94,
+      "longitude": 10.83
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 955,
+    "fields": {
+      "name": "Volvat",
+      "latitude": 59.93,
+      "longitude": 10.7
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 956,
+    "fields": {
+      "name": "V\u00f8yenenga",
+      "latitude": 59.91,
+      "longitude": 10.47
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 957,
+    "fields": {
+      "name": "Workinnmarka",
+      "latitude": 69.67,
+      "longitude": 18.93
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 958,
+    "fields": {
+      "name": "Ydalir",
+      "latitude": 60.89,
+      "longitude": 11.59
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 959,
+    "fields": {
+      "name": "Ytteren",
+      "latitude": 66.34,
+      "longitude": 14.14
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 960,
+    "fields": {
+      "name": "Ytter\u00f8ra",
+      "latitude": 65.83,
+      "longitude": 13.19
+    }
+  },
+  {
+    "model": "collector.settlement",
+    "pk": 961,
+    "fields": {
+      "name": "Yven",
+      "latitude": 59.28,
+      "longitude": 11.06
+    }
+  }
+]
