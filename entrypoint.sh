@@ -1,13 +1,15 @@
 #!/bin/bash
 
-# Collect static files
-echo "Collect static files"
-python manage.py collectstatic
+set -e
 
-# Apply database migrations
+echo "Waiting for database to be ready..."
+until echo > /dev/tcp/db/5432; do
+    echo "Database is unavailable. Waiting..."
+    sleep 1
+done
+echo "Database is ready!"
+
 echo "Apply database migrations"
 python manage.py migrate
 
-# Start server
-echo "Starting server"
-python manage.py runserver 0.0.0.0:8000
+exec "$@"

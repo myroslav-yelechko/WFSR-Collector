@@ -12,13 +12,16 @@ services:
 
   app:
     build: .
+    image: wfsr_collector-app
     restart: unless-stopped
+    command: python manage.py runserver 0.0.0.0:8000
+    entrypoint: ./entrypoint.sh
     ports:
       - '8000:8000'
     volumes:
       - .:/app
-    env_file: ".env.production"
-    command: ["python", "manage.py", "runserver", "0.0.0.0:8000"]
+    env_file:
+      - .env.production
     depends_on:
       - db
       - redis
@@ -37,6 +40,31 @@ services:
     networks:
       - default
 
+  celery:
+    image: wfsr_collector-app
+    command: celery -A WFSR worker -l info
+    restart: unless-stopped
+    volumes:
+      - .:/app
+    env_file:
+      - .env.production
+    depends_on:
+      - db
+      - app
+      - redis
+
+  celery-beat:
+    image: wfsr_collector-app
+    command: celery -A WFSR beat -l info
+    restart: unless-stopped
+    volumes:
+      - .:/app
+    env_file:
+      - .env.production
+    depends_on:
+      - db
+      - app
+      - redis
 
 volumes:
   pg_data:

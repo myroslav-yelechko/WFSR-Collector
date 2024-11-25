@@ -1,15 +1,18 @@
+import math
 import os
 import time
 import datetime
 import requests
 import logging
 
+from celery.utils.log import get_task_logger
 from django.core.cache import caches
 
 from collector.models import Settlement, Forecast, ForecastDifference
 
 system_logger = logging.getLogger('system')
 benchmark_logger = logging.getLogger('benchmark')
+celery_logger = get_task_logger(__name__)
 collect_forecast_cache = caches['default']
 
 last_modified_prefix = 'lm'
@@ -27,7 +30,13 @@ def job(lt: int = None):
     try:
         # lt for tests
         settlements = Settlement.objects.all() if lt is None else Settlement.objects.filter(id__lt=lt)
-        for settlement in settlements:
+        for index, settlement in enumerate(settlements):
+            # monitoring
+            if (index + 1) % math.floor(len(settlements) / 10) == 0:
+                percent = math.ceil(((index + 1) / len(settlements)) * 100)
+                celery_logger.info("{percent}% of job is ready".format(percent=percent))
+
+            # check if current data expired
             expires = collect_forecast_cache.get(get_exp_key(settlement))
             if expires is not None and datetime.datetime.strptime(expires, "%a, %d %b %Y %H:%M:%S GMT") > datetime.datetime.utcnow():
                 continue
@@ -71,11 +80,12 @@ def job(lt: int = None):
                         if original:
                             changed = Forecast.compare(original, to_compare)
 
-                            ForecastDifference(
-                                **changed,
-                                updated_at=updated_at,
-                                forecast=original
-                            ).save()
+                            if len(changed):
+                                ForecastDifference(
+                                    **changed,
+                                    updated_at=updated_at,
+                                    forecast=original
+                                ).save()
                         else:
                             to_compare.settlement = settlement
                             to_compare.save()

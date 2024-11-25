@@ -9,7 +9,7 @@ class Command(BaseCommand):
         parser.add_argument(
             "--lt",
             action="store_true",
-            help="Delete poll instead of closing it",
+            help="Argument for limiting the number of settlements for which to collect data in tests",
         )
 
     def handle(self, *args, **options):

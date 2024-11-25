@@ -1,4 +1,9 @@
 .idea
+.git
+tmp*
+.venv
+staticfiles
+
 .env
 .env.*
 db.sqlite3
