@@ -11,7 +11,7 @@ from django.core.cache import caches
 from collector.models import Settlement, Forecast, ForecastDifference
 
 system_logger = logging.getLogger('system')
-benchmark_logger = logging.getLogger('benchmark')
+monitoring_logger = logging.getLogger('monitoring')
 celery_logger = get_task_logger(__name__)
 collect_forecast_cache = caches['default']
 
@@ -99,8 +99,12 @@ def job(lt: int = None):
                         system_logger.error("The new version of API was released!")
                         send_release_update_message = False
 
-                if response.status_code >= 400:
+                if 400 <= response.status_code < 500:
                     raise response.raise_for_status()
+
+                if response.status_code >= 500:
+                    # ignore, it is not our concern
+                    monitoring_logger.info("500 status code occurred")
 
             except requests.exceptions.RequestException as e:
                 # Do not want to break if it is network exception
@@ -115,7 +119,7 @@ def job(lt: int = None):
         return "Critical problem occurred"
 
     time_end = time.perf_counter()
-    benchmark_logger.info("Cron job was done in {minutes} minutes".format(minutes=time.strftime("%M:%S", time.gmtime(time_end - time_start))))
+    monitoring_logger.info("Cron job was done in {minutes} minutes".format(minutes=time.strftime("%M:%S", time.gmtime(time_end - time_start))))
     return "Job was successfully done"
 
 def get_lm_key(settlement):

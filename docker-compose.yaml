@@ -14,7 +14,7 @@ services:
     build: .
     image: wfsr_collector-app
     restart: unless-stopped
-    command: python manage.py runserver 0.0.0.0:8000
+    command: python manage.py runserver 0.0.0.0:8000 # TODO: run on production web-server
     entrypoint: ./entrypoint.sh
     ports:
       - '8000:8000'

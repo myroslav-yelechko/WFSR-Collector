@@ -100,7 +100,7 @@ LOGGING = {
             "handlers": ["db_handler", "mail_admins"],
             "level": "ERROR",
         },
-        "benchmark": {
+        "monitoring": {
             "handlers": ["db_handler"],
             "level": "INFO",
         }
@@ -120,7 +120,6 @@ ROOT_URLCONF = 'WFSR.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [BASE_DIR / 'templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -211,3 +210,5 @@ CELERY_ACCEPT_CONTENT = ['json']
 CELERY_TASK_SERIALIZER = 'json'
 CELERY_RESULT_SERIALIZER = 'json'
 CELERY_TIMEZONE = TIME_ZONE
+
+# TODO: create containers health checker
